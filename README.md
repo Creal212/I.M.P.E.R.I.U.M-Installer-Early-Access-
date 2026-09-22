@@ -8,7 +8,7 @@
 
 [**Download Windows x64 — 0.2.15 installer**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe) · [All releases](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases) · [Getting started](docs/GETTING_STARTED.md)
 
-**Early access:** the audited 0.2.15 installer is unsigned and uses manual installation/updates. Read its [verification details and limitations](docs/DOWNLOADS.md). If an asset is not yet attached to its release, wait for publication; GitHub's repository/source archives are not the application.
+**Early access:** the audited 0.2.15 installer is unsigned and uses manual installation/updates. The installer and Mini preview are [published with checksums](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.15). Read their [verification details and limitations](docs/DOWNLOADS.md). GitHub's repository/source archives are not the application.
 
 I.M.P.E.R.I.U.M is a Windows desktop environment for working with AI on software projects, documents and plans. It keeps your original project, **Main**, separate from the **Clone** used for project work. Inspect changes, keep the work you want, create a named patch, and review what reaches Main.
 

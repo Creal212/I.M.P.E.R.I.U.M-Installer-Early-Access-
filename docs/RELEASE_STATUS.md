@@ -16,7 +16,7 @@ Axiom Risk confirmed the required Microsoft runtime redistribution entitlement. 
 
 ## Portable editions
 
-The **Mini preconfigured preview ZIP** has been prepared from the verified release contents. Exact file/inventory and archive CRC checks passed. Its launcher, app/model startup, clean-device behavior and relocation have not been executed or tested. Packaging alone does not establish offline or hardware behavior. No qualified regular/Core portable package is published by this document.
+The **Mini preconfigured preview ZIP** was published with the installer on 22 September 2026 in [the 0.2.15 release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.15). Exact file/inventory and archive CRC checks passed. GitHub's uploaded byte counts and SHA-256 digests match both pinned files, and their public download URLs return successfully. Its launcher, app/model startup, clean-device behavior and relocation have not been executed or tested. Packaging alone does not establish offline or hardware behavior. No qualified regular/Core portable package is published by this document.
 
 Each actual portable package needs its own exact files, checksums, runtime/model notices, clean bootstrap, data-location explanation and relocation qualification. Do not ship a development virtual environment or a loose executable from another build as a substitute.
 
