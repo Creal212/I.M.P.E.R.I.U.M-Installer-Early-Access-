@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "product": "I.M.P.E.R.I.U.M",
+  "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
+  "latestBuiltVersion": "0.2.15",
+  "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
+  "releases": [
+    {
+      "version": "0.2.16",
+      "recordDate": "2026-09-20",
+      "title": "Unreleased prompt reliability and policies",
+      "status": "unreleased",
+      "buildState": "unbuilt",
+      "notes": "releases/v0.2.16.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.15",
+      "recordDate": "2026-09-13",
+      "title": "First-use guidance and account setup",
+      "status": "prepared",
+      "buildState": "built",
+      "notes": "releases/v0.2.15.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe",
+          "bytes": 878875259,
+          "sha256": "0ab6866f34f36924fe5ff30b8c519d2dc8d73e2e08f91873b60852ed73c8174f",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_STATUS.md",
+            "summary": "Local package checks covered 130 UI assets and 14 resources plus an extracted-distribution guard. Packaged UI evidence: six passed, two not applicable. Fresh-device installation, upgrades and complete real-account sign-in were not verified. Manual early-access updates; unsigned."
+          }
+        },
+        {
+          "name": "IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip",
+          "kind": "mini-preconfigured-preview",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip",
+          "bytes": 1300627851,
+          "sha256": "e6273706210c8669e14517f94dce2271ff05a91b017f8bc60cd87763e0c71566",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "not-run",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-run",
+            "evidence": "docs/RELEASE_STATUS.md",
+            "summary": "Archive CRC and exact 60-file inventory checked. Launcher, app/model startup and relocation have not been tested. WebView2 is an external prerequisite. Preconfigured preview, not a qualified portable release."
+          }
+        }
+      ]
+    },
+    {
+      "version": "0.2.14",
+      "recordDate": "2026-09-13",
+      "title": "Planning replies and Mini limits",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.14.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.13",
+      "recordDate": "2026-09-13",
+      "title": "Model-sized conversation history",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.13.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.12",
+      "recordDate": "2026-09-13",
+      "title": "Identity and runtime prerequisites",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.12.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.11",
+      "recordDate": "2026-09-13",
+      "title": "Blueprint and safe failure details",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.11.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.10",
+      "recordDate": "2026-09-13",
+      "title": "Native Workspace context",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.10.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.9",
+      "recordDate": "2026-09-13",
+      "title": "CPU Mini and durable activity",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.9.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.8",
+      "recordDate": "2026-09-13",
+      "title": "Artifact integrity and recovery",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.8.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.7",
+      "recordDate": "2026-09-11",
+      "title": "Persistent setup and provider login",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.7.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.6",
+      "recordDate": "2026-09-10",
+      "title": "Automatic artifacts and skill input",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.6.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.5",
+      "recordDate": "2026-09-10",
+      "title": "Evidence-based security checks",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.5.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.4",
+      "recordDate": "2026-09-10",
+      "title": "Replayable guides and planning history",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.4.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.3",
+      "recordDate": "2026-09-10",
+      "title": "Main path compatibility",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.3.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.2",
+      "recordDate": "2026-09-10",
+      "title": "Skills, context and settings",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.2.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.1",
+      "recordDate": "2026-09-10",
+      "title": "Guided native setup",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.1.md",
+      "assets": []
+    },
+    {
+      "version": "0.2.0",
+      "recordDate": "2026-09-10",
+      "title": "Project lifecycle, native setup and previews",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.2.0.md",
+      "assets": []
+    },
+    {
+      "version": "0.1.0",
+      "recordDate": "2026-08-21",
+      "title": "Desktop foundation",
+      "status": "historical",
+      "buildState": "historical",
+      "notes": "releases/v0.1.0.md",
+      "assets": []
+    }
+  ],
+  "plannedEditions": [
+    {
+      "id": "agent589-portable",
+      "name": "Agent 589 portable",
+      "status": "planned",
+      "evaluation": "not-run",
+      "assets": [],
+      "note": "No clean portable package is qualified or available in this catalog."
+    },
+    {
+      "id": "agent589-core-portable",
+      "name": "Agent 589 Core portable",
+      "status": "planned",
+      "evaluation": "not-run",
+      "assets": [],
+      "note": "No clean portable package is qualified or available in this catalog."
+    }
+  ]
+}
