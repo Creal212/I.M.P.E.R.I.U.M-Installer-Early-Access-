@@ -4,9 +4,13 @@
 
 <p align="center">Your ideas. Your models. Your final say.</p>
 
+<p align="center"><a href="https://i-m-p-e-r-i-u-m-website.vercel.app/">Explore the website</a> · <a href="https://discord.gg/WZCxhjPwE">Join the Discord community</a></p>
+
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
 [**Download Windows x64 — 0.2.15 installer**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe) · [All releases](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases) · [Getting started](docs/GETTING_STARTED.md)
+
+[**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
 **Early access:** the audited 0.2.15 installer is unsigned and uses manual installation/updates. The installer and Mini preview are [published with checksums](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.15). Read their [verification details and limitations](docs/DOWNLOADS.md). GitHub's repository/source archives are not the application.
 
@@ -49,5 +53,11 @@ Project-specific inspection, exclusions, saved states, reviewed patches, rollbac
 A scan pass describes its inspected scope, not a guarantee of safety. AI can produce incorrect code. Review important outputs and keep backups. Current CPU Mini is intended for short text assistance; complex coding and strict-output reliability remain limitations.
 
 Published by **Axiom Risk**, based in Minnesota. Contact [Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com).
+
+## Community
+
+[Join us on Discord](https://discord.gg/WZCxhjPwE) to discuss projects, suggest improvements and share useful bug reports. Include your app version, what you expected and a small, redacted example when asking for help. Share only project material you are allowed to make visible to other members.
+
+Keep passwords, API keys, device codes, private project files and unredacted logs out of community channels. Report security vulnerabilities through our [private security reporting route](docs/SECURITY.md), rather than posting exploitable details publicly. Email remains available through [Support](docs/SUPPORT.md); joining Discord is optional.
 
 [Version history](CHANGELOG.md) · [Privacy](docs/PRIVACY.md) · [Use guidance](docs/TERMS_OF_USE.md) · [Software license](docs/EULA.md) · [Third-party notices](docs/THIRD_PARTY_NOTICES.md) · [Security reports](docs/SECURITY.md) · [Release provenance](docs/RELEASE_PROVENANCE.md)

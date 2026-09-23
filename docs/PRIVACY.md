@@ -28,6 +28,8 @@ The website stores theme and guide preferences in your browser. Its guide matche
 
 Repository visits, downloads and issues use **GitHub**, whose account, content and connection-data handling is described in its [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Public issues and attachments are visible to others.
 
+The optional [Imperium community on Discord](https://discord.gg/WZCxhjPwE) is reached through an ordinary outbound link. No Discord widget, embedded chat, automatic message sending or Discord integration is included in this website or these documentation pages. Opening the link contacts Discord; joining or posting shares information with Discord and, according to channel permissions, other members or moderators. Discord's account, connection-data and content handling is described in its [Privacy Policy](https://discord.com/privacy). Community feedback may be used to understand issues and improve the product. Do not post passwords, API keys, device codes, private project files or unredacted logs; report vulnerabilities through [private security reporting](SECURITY.md).
+
 The website/repository documentation does not establish a checkout, publisher-hosted user account or marketing subscription. A future form, analytics service or payment integration needs a corresponding disclosure and any required choice before use.
 
 ## Support, learning and diagnostics
