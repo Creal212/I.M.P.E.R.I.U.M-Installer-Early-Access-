@@ -1,6 +1,6 @@
-# Downloads and verification
+# Latest installer and verification
 
-[**Download the 0.2.15 Windows x64 installer**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe) · [Release assets](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases)
+[**Download the latest installer · 0.2.15 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe) · [Changes in this version](../releases/v0.2.15.md) · [Historical installers](INSTALLER_ARCHIVE.md)
 
 Only files attached to a release are downloadable app packages. If an asset is still being published, wait for it to appear. Historical notes, tags and GitHub-generated source archives do not establish binary availability.
 
@@ -12,9 +12,10 @@ Only files attached to a release are downloadable app packages. If an asset is s
 | **Mini preconfigured preview ZIP** | Exact 0.2.15 app plus a fresh bundled CPU Mini profile. Packaging checked; launcher, model startup and relocation untested. See below. |
 | **Portable Agent 589** | Planned; current development runtime/model folders are not distributions. |
 | **Portable Core** | Planned; clean-machine bootstrap, large-model hardware and relocation qualification required. |
-| **0.2.16** | Saved development changes; unbuilt and unreleased. Agent/model QA paused. |
 
 No portable links are fabricated. Packaging status must be updated from actual artifacts, not a renamed installed folder.
+
+The latest installer is separate from [earlier published installers](INSTALLER_ARCHIVE.md) and [unpublished source milestones](../CHANGELOG.md#unpublished-work). Older downloads retain their original version; they do not include newer changes. A Mini preview does not become current merely because the latest installer changes.
 
 ## Mini preconfigured preview
 

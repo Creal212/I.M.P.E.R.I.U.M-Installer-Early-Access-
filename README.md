@@ -8,7 +8,11 @@
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
-[**Download Windows x64 — 0.2.15 installer**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe) · [All releases](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases) · [Getting started](docs/GETTING_STARTED.md)
+## Latest installer — 0.2.15
+
+[**Download the latest Windows x64 installer · 0.2.15**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe) · [What changed](releases/v0.2.15.md) · [Setup and checksum](docs/DOWNLOADS.md)
+
+**New here? Start with the installer above.** Earlier downloads live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) also includes notes-only versions with no installer.
 
 [**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
@@ -36,7 +40,7 @@ Use available local Agent 589 models or compatible connected providers. The sele
 
 Main's saved location supports patching; it is not a permanent network connection. If Main moves, reconnect it through project details.
 
-## Editions and availability
+## Other editions and availability
 
 | Package | Status |
 | --- | --- |
@@ -44,7 +48,8 @@ Main's saved location supports patching; it is not a permanent network connectio
 | **Mini preconfigured preview ZIP** | [Download preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
 | **Portable Agent 589** | Planned; no qualified package or download. |
 | **Portable Core** | Planned; no qualified package or download. |
-| **0.2.16** | Saved development work, **unbuilt and unreleased**. Agent/model QA is paused; these changes are not in 0.2.15. |
+
+The Mini preview has its own version and verification status; it is not automatically updated when a newer installer ships. Source-only version milestones are listed in [Unpublished work](CHANGELOG.md#unpublished-work), separately from available downloads.
 
 ## Useful features, with clear limits
 

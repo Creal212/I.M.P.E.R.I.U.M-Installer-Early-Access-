@@ -6,6 +6,15 @@
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
     {
+      "version": "0.2.17",
+      "recordDate": "2026-09-23",
+      "title": "The Obsidian and Parchment update",
+      "status": "unreleased",
+      "buildState": "unbuilt",
+      "notes": "releases/v0.2.17.md",
+      "assets": []
+    },
+    {
       "version": "0.2.16",
       "recordDate": "2026-09-20",
       "title": "Unreleased prompt reliability and policies",
