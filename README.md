@@ -4,7 +4,8 @@
 
 <p align="center">Your ideas. Your models. Your final say.</p>
 
-<p align="center"><a href="https://i-m-p-e-r-i-u-m-website.vercel.app/">Explore the website</a> · <a href="https://discord.gg/WZCxhjPwE">Join the Discord community</a></p>
+<p align="center"><a href="www.imperium589.world
+">Explore the website</a> · <a href="https://discord.gg/WZCxhjPwE">Join the Discord community</a></p>
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
