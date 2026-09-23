@@ -1,6 +1,6 @@
 # Latest installer and verification
 
-[**Download the latest installer · 0.2.15 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe) · [Changes in this version](../releases/v0.2.15.md) · [Historical installers](INSTALLER_ARCHIVE.md)
+[**Download the latest installer · 0.2.17 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.17/I.M.P.E.R.I.U.M_0.2.17_x64-setup.exe) · [Changes in this version](../releases/v0.2.17.md) · [Historical installers](INSTALLER_ARCHIVE.md)
 
 Only files attached to a release are downloadable app packages. If an asset is still being published, wait for it to appear. Historical notes, tags and GitHub-generated source archives do not establish binary availability.
 
@@ -8,8 +8,8 @@ Only files attached to a release are downloadable app packages. If an asset is s
 
 | Edition | Status |
 | --- | --- |
-| **Windows x64 installer 0.2.15** | Latest audited built early-access artifact. Unsigned; manual installation/updates. |
-| **Mini preconfigured preview ZIP** | Exact 0.2.15 app plus a fresh bundled CPU Mini profile. Packaging checked; launcher, model startup and relocation untested. See below. |
+| **Windows x64 installer 0.2.17** | Latest early-access installer. Exact payload/inventory checks passed; other qualification remains scoped. Unsigned; manual installation/updates. |
+| **Earlier 0.2.15 Mini preconfigured preview ZIP** | Earlier app build plus a fresh bundled CPU Mini profile; no 0.2.17 changes. Packaging checked; launcher, model startup and relocation untested. See below. |
 | **Portable Agent 589** | Planned; current development runtime/model folders are not distributions. |
 | **Portable Core** | Planned; clean-machine bootstrap, large-model hardware and relocation qualification required. |
 
@@ -19,7 +19,7 @@ The latest installer is separate from [earlier published installers](INSTALLER_A
 
 ## Mini preconfigured preview
 
-[Download the Mini preview ZIP](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip)
+[Download the 0.2.15 Mini preview ZIP](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip)
 
 - Filename: `IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip`
 - Size: **1,300,627,851 bytes**
@@ -27,7 +27,7 @@ The latest installer is separate from [earlier published installers](INSTALLER_A
 - Checks: original app/resource identities, pinned model/runtime inventory, all 60 archive files/lengths and archive CRC.
 - **Not tested:** launcher execution, actual app/model startup, clean-device behavior or moving the package.
 
-This is a preconfigured preview, not a qualified portable edition or a 0.2.16 build. It contains the exact installer-extracted 0.2.15 app and a new `Data` folder seeded only with pinned Mini model/runtime files and incomplete setup preferences. No user account, conversation, project or developer GPU environment was copied.
+This is an earlier **0.2.15 preconfigured preview**, not a qualified portable edition or a 0.2.17 build. It contains the exact installer-extracted 0.2.15 app and a new `Data` folder seeded only with pinned Mini model/runtime files and incomplete setup preferences. It does not contain the 0.2.17 themes, interface or response improvements. No user account, conversation, project or developer GPU environment was copied.
 
 Extract the complete archive to a new writable folder. Windows x64, **Microsoft Edge WebView2** and Windows Script Host are prerequisites; WebView2 is not bundled in this ZIP. Do not disable Windows security settings if the launcher is restricted. Read the included README and [preview license](PREVIEW_LICENSE.md).
 
@@ -39,14 +39,16 @@ Stop the model and close the app before moving/backing up the folder. Main paths
 
 | Field | Verified value |
 | --- | --- |
-| Filename | `I.M.P.E.R.I.U.M_0.2.15_x64-setup.exe` |
-| Size | **878,875,259 bytes** |
-| SHA-256 | `0AB6866F34F36924FE5FF30B8C519D2DC8D73E2E08F91873B60852ED73C8174F` |
-| File/product version | **0.2.15** |
+| Filename | `I.M.P.E.R.I.U.M_0.2.17_x64-setup.exe` |
+| Size | **879,908,507 bytes** |
+| SHA-256 | `DD41DD02E70639866CB4CB54700A505ED6B023CBD046D83551B3ECB340899896` |
+| Packaged application file/product version | **0.2.17.0** |
 | Authenticode | **NotSigned** |
 | Update route | Manual official download; no audited adjacent updater signature |
 
 This is an explicitly disclosed unsigned early-access build, not a signed production/update channel. A rebuilt or signed artifact has different bytes and needs a new identity record.
+
+Exact extracted inventory checks covered 130 interface assets and 14 resources. Read the [0.2.17 verification record](RELEASE_0_2_17_STATUS.md) for the distinction between source checks, package checks, runtime observation and work still unqualified. The old 0.2.15 identity is retained in the [installer archive](INSTALLER_ARCHIVE.md).
 
 Axiom Risk has confirmed the required Microsoft runtime redistribution entitlement. That is a publisher confirmation, not an independent legal certification; exact component notices and applicable terms still matter.
 

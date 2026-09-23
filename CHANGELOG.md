@@ -4,7 +4,7 @@ These curated records use dates from the publisher’s version notes. **A note d
 
 ## Latest published installer
 
-**[0.2.15 — First-use guidance and account setup](releases/v0.2.15.md)** is the current unsigned, manual early-access installer. [Download and verify it](docs/DOWNLOADS.md).
+**[0.2.17 — The Obsidian and Parchment update](releases/v0.2.17.md)** is the current unsigned, manual early-access installer. [Download and verify it](docs/DOWNLOADS.md).
 
 ## Historical installers
 
@@ -12,17 +12,15 @@ Earlier published downloads have a dedicated [Historical installers archive](doc
 
 ## Unpublished work
 
-**[0.2.17 — The Obsidian and Parchment update](releases/v0.2.17.md)** is being prepared as the next installer. It has no published download yet.
-
 **[0.2.16](releases/v0.2.16.md)** is a source-only development milestone, not a published installer. Its notes do not establish an available binary. Native-model quality work remains paused and unqualified.
 
 ## Recorded change history
 
 | Version | Recorded date | Focus | State |
 | --- | --- | --- | --- |
-| [0.2.17](releases/v0.2.17.md) | 2026-09-23 | App-wide visual refresh and saved reliability improvements | In preparation; no download |
+| [0.2.17](releases/v0.2.17.md) | 2026-09-23 | App-wide visual refresh and saved reliability improvements | Latest early-access installer |
 | [0.2.16](releases/v0.2.16.md) | 2026-09-20 | Unreleased prompt reliability and policies | Unbuilt/unreleased |
-| [0.2.15](releases/v0.2.15.md) | 2026-09-13 | First-use guidance and account setup | Verified built early access |
+| [0.2.15](releases/v0.2.15.md) | 2026-09-13 | First-use guidance and account setup | Historical installer and Mini preview |
 | [0.2.14](releases/v0.2.14.md) | 2026-09-13 | Planning replies and Mini limits | Historical notes |
 | [0.2.13](releases/v0.2.13.md) | 2026-09-13 | Model-sized conversation history | Historical notes |
 | [0.2.12](releases/v0.2.12.md) | 2026-09-13 | Identity and runtime prerequisites | Historical notes |

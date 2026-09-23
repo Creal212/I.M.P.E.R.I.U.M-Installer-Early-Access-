@@ -2,17 +2,36 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.15",
+  "latestBuiltVersion": "0.2.17",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
     {
       "version": "0.2.17",
       "recordDate": "2026-09-23",
       "title": "The Obsidian and Parchment update",
-      "status": "unreleased",
-      "buildState": "unbuilt",
+      "status": "published",
+      "buildState": "built",
       "notes": "releases/v0.2.17.md",
-      "assets": []
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.17_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.17/I.M.P.E.R.I.U.M_0.2.17_x64-setup.exe",
+          "bytes": 879908507,
+          "sha256": "dd41dd02e70639866cb4cb54700a505ed6b023cbd046d83551b3ecb340899896",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_17_STATUS.md",
+            "summary": "Scoped interface, access-control, distribution and integrity checks passed. Exact extracted inventory verified: 130 UI assets and 14 resources. A 15-second isolated startup passed without model inference. Fresh-device installation, real-data upgrades, complete provider workflows and native-model quality remain unqualified. Manual early-access updates; unsigned."
+          }
+        }
+      ]
     },
     {
       "version": "0.2.16",

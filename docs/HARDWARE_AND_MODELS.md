@@ -2,7 +2,7 @@
 
 | Tier | Intended role | Distribution status |
 | --- | --- | --- |
-| **Agent 589 Mini** | Smaller CPU text assistant for short requests | The audited 0.2.15 installer includes Qwen3-0.6B Q8_0 setup. Complex coding and exact-output quality remain limited. |
+| **Agent 589 Mini** | Smaller CPU text assistant for short requests | The 0.2.17 installer retains the bundled Qwen3-0.6B Q8_0 model and its matched CPU runtime. Complex coding and exact-output quality remain limited. |
 | **Agent 589** | Regular local model for more capable work on suitable hardware | Optional setup; no qualified portable package is claimed here. |
 | **Agent 589 Core** | Larger optional local model for substantial hardware | Do not infer compatibility from Mini working. Portable qualification remains pending. |
 
@@ -14,5 +14,4 @@ No universal minimum or performance promise is made for planned portable edition
 
 Mini is text-only in the recorded release guidance. Image, audio, video and file creation need actual compatible models/providers and host tools. A skill cannot add a missing engine.
 
-The 0.2.16 quality work is paused and unbuilt. QA candidates are not adopted merely because of upstream scores or isolated correct answers.
-
+Native-model quality work remains paused and incomplete. The 0.2.16 version is a source-only milestone; the 0.2.17 visual and reliability changes do not replace or qualify native models. QA candidates are not adopted merely because of upstream scores or isolated correct answers.

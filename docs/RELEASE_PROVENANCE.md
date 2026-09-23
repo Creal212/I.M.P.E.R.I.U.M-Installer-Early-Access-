@@ -2,7 +2,7 @@
 
 This is a curated public history, prepared from the publisher's frozen version-note records and updated on 23 September 2026. The records are implementation notes, not proof of public upload, independent certification or archived binary availability. Dates below are copied only from those records. Internal machine paths, QA process identities and private signing material are not published.
 
-The current published installer is 0.2.15; 0.2.17 is being prepared and 0.2.16 remains a source-only milestone. Native-model quality work is paused. See [Release status](RELEASE_STATUS.md) and [Downloads](DOWNLOADS.md) for the current distribution distinction.
+The current installer line is 0.2.17; the original 0.2.15 packages remain in the historical archive, and 0.2.16 remains a source-only milestone. Native-model quality work is paused. See [Release status](RELEASE_STATUS.md) and [Downloads](DOWNLOADS.md) for distribution and verification details.
 
 | Source record | Recorded date | SHA-256 of original note |
 | --- | --- | --- |
@@ -28,4 +28,4 @@ The current published installer is 0.2.15; 0.2.17 is being prepared and 0.2.16 r
 
 The public pages summarize the relevant changes and data-preservation notes. They intentionally do not copy every implementation detail or make historical setup/model names into current promises. Later release records may supersede earlier workflows.
 
-Artifact identity and signature disclosures come from the retained 0.2.15 package audit, separately from these note hashes. A newly rebuilt, repackaged or signed binary needs a new checksum and matching release description.
+Artifact identity and signature disclosures come from each version's separate package audit, not these note hashes. The 0.2.15 identities are retained in [Historical installers](INSTALLER_ARCHIVE.md); 0.2.17 has its own [verification record](RELEASE_0_2_17_STATUS.md). A rebuilt, repackaged or signed binary needs a new checksum and matching release description.

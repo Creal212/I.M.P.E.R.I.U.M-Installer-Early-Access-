@@ -1,10 +1,14 @@
 # Release status
 
-Recorded **22 September 2026**.
+Recorded **23 September 2026**.
 
-## Built early-access line
+## Latest installer — 0.2.17
 
-The verified built artifact is the Windows x64 **0.2.15 installer** identified in [Downloads](DOWNLOADS.md). It is unsigned and intended for a disclosed manual early-access installation/update route.
+The Windows x64 **0.2.17 installer** has passed its local build and exact extracted-inventory checks, covering 130 interface assets and 14 resources. A fresh-profile process check reached input-idle readiness and stayed running for 15 seconds without integrity/startup errors or automatic model startup. The package is unsigned and uses manual early-access installation/updates. Read its [identity](DOWNLOADS.md) and [scoped verification record](RELEASE_0_2_17_STATUS.md). Public GitHub upload sizes and SHA-256 digests match the verified local files.
+
+## Historical installer — 0.2.15
+
+The Windows x64 **0.2.15 installer** is retained in [Historical installers](INSTALLER_ARCHIVE.md), with its original bytes and qualifications. It is unsigned and uses manual early-access installation/updates.
 
 Retained local checks covered 130 UI assets and 14 resources, plus an extracted-distribution guard. Packaged-UI evidence was partial: six passed cases and two not applicable. These are scoped checks, not all-features or physical-device certification. Fresh physical-device installation, upgrade and complete real-account sign-in remain unverified in that audit.
 
@@ -12,7 +16,7 @@ Axiom Risk confirmed the required Microsoft runtime redistribution entitlement. 
 
 ## Unbuilt work
 
-**0.2.16 is not an installer.** Agent/model improvement work was explicitly paused on 22 September. Scoped response/context and loading/activity evidence exists, but native quality remains open. The frozen QA format variation passed nine checks and one synthetic integration; its two live prompts have not run. Those changes are not included in 0.2.15.
+**0.2.16 is not an installer.** It is retained as a source checkpoint. The saved response/context and loading/activity fixes are included in 0.2.17, while native-model quality work remains paused and incomplete. The frozen QA format variation passed nine checks and one synthetic integration; its two live prompts have not run. No experimental replacement model is included in 0.2.17.
 
 ## Portable editions
 

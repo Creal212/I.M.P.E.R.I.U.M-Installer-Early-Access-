@@ -1,12 +1,13 @@
 # Privacy notice
 
-Revision: **22 September 2026**  
+Revision: **23 September 2026**
+
 Publisher: **Axiom Risk**, based in **Minnesota**  
 Contact: [Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com)
 
 ## Scope and versions
 
-This notice covers the desktop platform, its distribution repository and the product website prepared for hosting on Vercel. Features and controls vary by release. It does not claim that the unbuilt 0.2.16 Settings policy screen exists in 0.2.15, change a provider's practices or enable a setting on your behalf.
+This notice covers the desktop platform, its distribution repository and [product website](https://www.imperium589.world/), hosted on Vercel. Features and controls vary by release. Offline policies in Settings are included in the 0.2.17 build; this does not add that screen to the older 0.2.15 package, change a provider's practices or enable a setting on your behalf.
 
 The local project workflow does not require a publisher-hosted cloud account. A local model runs on your computer. A cloud/API connection sends requests to the selected service; review the actual endpoint in Providers rather than trusting a display name.
 
@@ -22,7 +23,7 @@ A selected cloud provider can receive your prompt, permitted history, selected a
 
 Enabled web tools contact websites/services for the task. Model, runtime, skill and update downloads contact their hosts, which can receive ordinary connection information such as IP address and requested resource. Offline task use needs components already installed; it does not turn off Windows networking, other apps or separately initiated sign-in/download actions.
 
-The product website is prepared for **Vercel** hosting. Hosting and delivery can involve request/connection data such as IP address, browser information, requested URL and technical logs for serving, securing and diagnosing the site. This notice does not state that hosting creates zero logs, or that Vercel's policy replaces Axiom Risk's responsibilities. See [Vercel's privacy notice](https://vercel.com/legal/privacy-notice).
+The product website uses **Vercel** hosting. Hosting and delivery can involve request/connection data such as IP address, browser information, requested URL and technical logs for serving, securing and diagnosing the site. This notice does not state that hosting creates zero logs, or that Vercel's policy replaces Axiom Risk's responsibilities. See [Vercel's privacy notice](https://vercel.com/legal/privacy-notice).
 
 The website stores theme and guide preferences in your browser. Its guide matches questions against a local reference library, without sending questions to a model or server. Hardware selections stay on the page. The Downloads and Release journal pages retrieve this repository's public release catalog from `raw.githubusercontent.com`, omitting cookies and referrer information. GitHub receives ordinary connection information; those requests do not include guide questions, device selections or project data. A bundled catalog is available if the live request fails. No analytics or advertising script is included.
 

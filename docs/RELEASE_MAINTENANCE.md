@@ -2,7 +2,7 @@
 
 [`releases.json`](../releases.json) is the versioned, public catalog for the website and this distribution repository. Schema **1** records version notes, exact download identities, publication state and scoped evaluation. It contains no installer bytes, credentials, personal data or private machine paths.
 
-The catalog currently links all 18 recorded version pages. **0.2.15 is the latest built version.** Its installer and Mini preconfigured preview have separate identities and limitations. **0.2.16 remains unbuilt/unreleased with no assets.** Regular Agent 589 and Core portable editions remain planned with no download URL or testing claim.
+The catalog links all 19 recorded version pages. The current published installer is identified in [Downloads](DOWNLOADS.md); previous published files retain their original identities in [Historical installers](INSTALLER_ARCHIVE.md). The Mini preconfigured preview has a separate version and qualification. **0.2.16 remains a source-only milestone with no assets.** Regular Agent 589 and Core portable editions remain planned with no download URL or testing claim.
 
 ## Status means one specific thing
 
@@ -35,7 +35,7 @@ The catalog currently links all 18 recorded version pages. **0.2.15 is the lates
 9. Re-run catalog validation, review the public notes and update the website from the same committed catalog. Keep the manifest, release notes and website synchronized. Commit only the reviewed public metadata/docs; never include private test evidence, credentials or a user's populated application data.
 10. Put the newly published installer in the README's **Latest installer** section and [Downloads](DOWNLOADS.md), using its exact versioned release and asset URLs. GitHub may exclude a prerelease from its automatic Latest shortcut, so do not rely on that shortcut or remove the early-access designation merely to obtain it. Move the previous installer's links and original integrity record to [Historical installers](INSTALLER_ARCHIVE.md). Retain its catalog `published` state and original assets; do not change it to `historical`, which means notes without downloadable binaries. Preserve source-only milestones under **Unpublished work**, with no download button. Do not relabel an older Mini preview as the new version.
 
-For the already prepared 0.2.15 assets, publishing changes **only the publication state** after the exact upload has been verified. Do not regenerate or recompute a different artifact to make a catalog mismatch disappear. Compare against the pinned hashes already recorded.
+The already published 0.2.15 installer and Mini preview are immutable historical artifacts. Do not regenerate, rename or replace them to make a catalog mismatch disappear. Compare against their pinned hashes and publish a separately versioned artifact for new work.
 
 ## Schema and validation contract
 
