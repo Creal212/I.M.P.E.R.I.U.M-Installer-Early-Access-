@@ -4,7 +4,7 @@ Recorded **23 September 2026**.
 
 ## Latest installer — 0.2.17
 
-The Windows x64 **0.2.17 installer** has passed its local build and exact extracted-inventory checks, covering 130 interface assets and 14 resources. A fresh-profile process check reached input-idle readiness and stayed running for 15 seconds without integrity/startup errors or automatic model startup. The package is unsigned and uses manual early-access installation/updates. Read its [identity](DOWNLOADS.md) and [scoped verification record](RELEASE_0_2_17_STATUS.md). Public GitHub upload sizes and SHA-256 digests match the verified local files.
+The Windows x64 **0.2.17 installer** passed its local build and release validation of 130 embedded interface assets and 14 bundled resources. The declared payload members separately passed exact extracted-inventory verification. A fresh-profile process check reached input-idle readiness and stayed running for 15 seconds without integrity/startup errors or automatic model startup. The package is unsigned and uses manual early-access installation/updates. Read its [identity](DOWNLOADS.md) and [scoped verification record](RELEASE_0_2_17_STATUS.md). Public GitHub upload sizes and SHA-256 digests match the verified local files.
 
 ## Historical installer — 0.2.15
 

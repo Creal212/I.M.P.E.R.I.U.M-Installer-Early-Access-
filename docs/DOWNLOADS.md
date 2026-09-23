@@ -48,7 +48,7 @@ Stop the model and close the app before moving/backing up the folder. Main paths
 
 This is an explicitly disclosed unsigned early-access build, not a signed production/update channel. A rebuilt or signed artifact has different bytes and needs a new identity record.
 
-Exact extracted inventory checks covered 130 interface assets and 14 resources. Read the [0.2.17 verification record](RELEASE_0_2_17_STATUS.md) for the distinction between source checks, package checks, runtime observation and work still unqualified. The old 0.2.15 identity is retained in the [installer archive](INSTALLER_ARCHIVE.md).
+Release validation checked 130 embedded interface assets and 14 bundled resources. The declared installer payload members separately passed exact extracted-inventory verification. Read the [0.2.17 verification record](RELEASE_0_2_17_STATUS.md) for the distinction between source checks, package checks, runtime observation and work still unqualified. The old 0.2.15 identity is retained in the [installer archive](INSTALLER_ARCHIVE.md).
 
 Axiom Risk has confirmed the required Microsoft runtime redistribution entitlement. That is a publisher confirmation, not an independent legal certification; exact component notices and applicable terms still matter.
 

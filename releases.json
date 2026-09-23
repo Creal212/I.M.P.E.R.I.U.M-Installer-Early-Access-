@@ -28,7 +28,7 @@
             "freshDevice": "not-run",
             "relocation": "not-applicable",
             "evidence": "docs/RELEASE_0_2_17_STATUS.md",
-            "summary": "Scoped interface, access-control, distribution and integrity checks passed. Exact extracted inventory verified: 130 UI assets and 14 resources. A 15-second isolated startup passed without model inference. Fresh-device installation, real-data upgrades, complete provider workflows and native-model quality remain unqualified. Manual early-access updates; unsigned."
+            "summary": "Scoped interface, access-control, distribution and integrity checks passed. Package checks verified 130 embedded UI assets and 14 resources; exact extracted payload inventory also passed. A 15-second isolated startup passed without model inference. Fresh-device installation, real-data upgrades, complete provider workflows and native-model quality remain unqualified. Manual early-access updates; unsigned."
           }
         }
       ]

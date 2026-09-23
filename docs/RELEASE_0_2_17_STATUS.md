@@ -7,13 +7,13 @@ Recorded **23 September 2026**. The [0.2.17 early-access release](https://github
 - **375 focused interface and access-control checks** passed for the saved application source.
 - **22 distribution-contract checks** passed.
 - **8 isolated native integrity checks** passed against the actual integrity module. This is not a completed test run of the entire native application.
-- **11 package checks** passed for the generated 0.2.17 installer payload.
+- Release payload verification and exact extracted-inventory checks passed for the generated 0.2.17 installer.
 - The NSIS installer lifecycle checks passed using a synthetic, isolated test installation. This exercises the installer mechanism; it is not proof of installation on a separate physical device or of an upgrade using a real user's data.
 - Visual review covered the refreshed interface and both themes. Website release-catalog and reference-guide checks also passed independently; website tests do not qualify desktop model behavior.
 
 ## Final artifact checks
 
-The NSIS package was built successfully. Exact extracted-inventory verification passed for **130 interface assets and 14 resources**. The packaged application reports version **0.2.17.0**.
+The NSIS package was built successfully. Release validation verified **130 embedded interface assets and 14 bundled resources**. Separately, exact extracted-inventory verification confirmed the declared installer payload members. The packaged application reports version **0.2.17.0**.
 
 | Field | Verified local value |
 | --- | --- |
