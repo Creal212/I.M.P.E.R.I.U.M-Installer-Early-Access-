@@ -15,7 +15,7 @@ Recorded **2026-09-24**. Scoped early access, not all-device or model-quality ce
 | Packaging | Per-file LZMA; embedded WebView2 bootstrapper, internet needed if WebView2 is missing |
 | Model quality | Not qualified; previous failures and incomplete results retained |
 | Physical-device installation / real-data upgrades | Not established |
-| Publication | Prepared locally; no public availability claim |
+| Publication | Remote size and SHA-256 verified against this installer |
 
 Exact installer extraction, version, resource inventory and release verification passed. The packaged app stayed responsive to Windows input-idle checks during a 15-second isolated process smoke, without automatic native setup, model processes or integrity failure receipts; this was not a full UI or physical-device installation test. Final targeted checks passed: 123 Rust regressions, 122 UI tests and TypeScript. Synthetic NSIS lifecycle checks preserved five project/settings/history/model sentinels. Live Codex requests produced readable greetings and capabilities, a typed clarification, a small Python candidate whose reviewed tests passed, a decoded Workspace PNG and cited web search plus readable HTTPS fetch. Tests used disposable data, preserved outside-file canaries and did not alter real provider permissions. Other providers have protocol fixtures, not universal live certification; native model quality and separate-device installation remain unqualified.
 

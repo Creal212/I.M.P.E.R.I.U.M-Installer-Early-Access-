@@ -1,12 +1,12 @@
 # Hardware and native models
 
-The 0.2.18 installer contains the restored Lite baseline. Larger tiers are optional manual previews, available in native setup; no larger portable archive is implied.
+The 0.2.19 installer contains no model weights; all four tiers are optional downloads. Larger tiers are optional manual previews, available in native setup; no larger portable archive is implied.
 
-Granite Lite and its CPU engine are included. The installer embeds the Microsoft Edge WebView2 bootstrapper, so installation needs internet if that required runtime is missing. Native inference can run offline after preparation. Optional larger-model downloads and connected providers need their own network connection.
+Download a model in Settings → Agent 589, then explicitly select Start. Start downloads the verified CPU engine if needed; fresh launch performs no automatic setup. The installer embeds the Microsoft Edge WebView2 bootstrapper, so installation needs internet if that required runtime is missing. Native inference can run offline after preparation. Optional larger-model downloads and connected providers need their own network connection.
 
 | Tier | Selected model | AI memory allowance | Status |
 | --- | --- | --- | --- |
-| **Agent 589 Lite** | IBM Granite 4.0 Micro Q4_K_M | 4 GiB | Included restored baseline with known code/test limitations |
+| **Agent 589 Lite** | IBM Granite 4.0 Micro Q4_K_M | 4 GiB | Optional restored baseline with known code/test limitations |
 | **Agent 589 Mini** | Qwen2.5-Coder 7B Q4_K_M | 8 GiB | Optional manual Experimental preview; complete coding workflows unqualified |
 | **Agent 589** | Qwen2.5-Coder 14B Q5_K_M | 16 GiB | Optional manual Experimental preview; complete coding workflows unqualified |
 | **Agent 589 Core** | Devstral Small 2 24B Q4_K_M | 20 GiB | Optional Experimental; simulation-only integration evidence, no live qualification |
@@ -21,4 +21,4 @@ Older retained native models and the 0.2.15 Mini ZIP keep their original model I
 
 These native packages provide text/code assistance. Image, audio and video generation still require compatible models/providers and actual host tools. Skills do not add a missing engine or extra filesystem authority. Review and test generated work; none of these labels certifies coding correctness.
 
-[Downloads](DOWNLOADS.md) · [Exact release limitations](RELEASE_0_2_18_STATUS.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)
+[Downloads](DOWNLOADS.md) · [Exact release limitations](RELEASE_0_2_19_STATUS.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)

@@ -1,8 +1,12 @@
 # Release status
 
+## Latest installer — 0.2.19
+
+Exact installer extraction, version, resource inventory and release verification passed. The packaged app stayed responsive to Windows input-idle checks during a 15-second isolated process smoke, without automatic native setup, model processes or integrity failure receipts; this was not a full UI or physical-device installation test. Final targeted checks passed: 123 Rust regressions, 122 UI tests and TypeScript. Synthetic NSIS lifecycle checks preserved five project/settings/history/model sentinels. Live Codex requests produced readable greetings and capabilities, a typed clarification, a small Python candidate whose reviewed tests passed, a decoded Workspace PNG and cited web search plus readable HTTPS fetch. Tests used disposable data, preserved outside-file canaries and did not alter real provider permissions. Other providers have protocol fixtures, not universal live certification; native model quality and separate-device installation remain unqualified. [Evidence](RELEASE_0_2_19_STATUS.md) · [Download](DOWNLOADS.md). All native models are optional Settings downloads.
+
 Recorded **2026-09-24**.
 
-## Latest installer — 0.2.18
+## Historical installer — 0.2.18
 
 The unsigned manual early-access installer includes restored Granite Lite and shared harness/setup changes. Exact local/extracted inventory and remote-download identity passed. Desktop and installer lifecycle checks were scoped; model quality is not qualified and fresh-device installation remains not run. [Exact evidence](RELEASE_0_2_18_STATUS.md) · [Download](DOWNLOADS.md).
 

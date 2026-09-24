@@ -4,7 +4,7 @@
 
 Read [Downloads](DOWNLOADS.md) for the exact version, checksum and signing status. A repository archive is not the app. The installer targets Windows x64; suitable Windows/WebView2 support, storage and model hardware are needed. Save work, close the app before upgrades and keep independent backups.
 
-Granite Lite weights and the CPU engine are included. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Lite is then prepared from the included files on first launch when no saved setup choice overrides it. Wait for verified readiness; if setup fails, the native-model page retains the error and recovery action. Model files, engine ready and AI responding are separate states. Open **Providers** or **Agent 589** to review readiness or manually choose a larger preview. Native inference can run offline once prepared. See [hardware and model limits](HARDWARE_AND_MODELS.md); all generated work still needs review.
+Open **Providers** to connect a model, or **Settings → Agent 589** to download optional Lite, Mini, Regular or Core. Check size and available-memory estimates, choose **Download files**, then **Start**. Nothing downloads or starts automatically. The first Start can download the verified CPU engine; WebView2 may also require internet if missing. Existing models and saved stops remain. Only a ready authenticated model appears in task selectors. See [hardware guidance](HARDWARE_AND_MODELS.md).
 
 For an external connection, follow its supported account/API setup. Some routes need the provider's own runtime or account configuration. Login does not guarantee task execution or media entitlement. Keep account codes and keys private, then choose the provider and model in your working environment.
 

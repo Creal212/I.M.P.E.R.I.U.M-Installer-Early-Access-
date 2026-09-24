@@ -1,24 +1,10 @@
 # Latest installer and verification
 
-[**Download the latest installer · 0.2.18 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.18/I.M.P.E.R.I.U.M_0.2.18_x64-setup.exe) · [Changes](../releases/v0.2.18.md) · [Historical installers](INSTALLER_ARCHIVE.md)
+[**Download 0.2.19 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.19/I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe) · [Changes](../releases/v0.2.19.md) · [Historical installers](INSTALLER_ARCHIVE.md)
 
-Only official attached release assets are app packages. GitHub repository/source archives are not installers. This is an unsigned early-access build with manual updates.
+Only attached official release assets are app packages. This installer is unsigned and uses manual updates. Repository/source archives are not the application.
 
-## Next release — source preparation
-
-[0.2.19 changes](../releases/v0.2.19.md) prepare a smaller, download-only installer and provider fixes. No new installer size, checksum or download is announced yet; use the published package below.
-
-## Editions
-
-| Edition | Status |
-| --- | --- |
-| **Windows x64 installer 0.2.18** | Current installer includes restored Granite Lite and CPU engine. WebView2 bootstrapper needs internet if that runtime is missing. Larger-model downloads are optional; checks are scoped. |
-| **Earlier 0.2.15 Mini preconfigured preview ZIP** | Original older app/model; no 0.2.17 or 0.2.18 changes. Launcher, model startup, fresh-device behavior and relocation remain untested. |
-| **Portable Agent 589 / Core** | Planned; no new portable archive is supplied by this release. |
-
-See [four-tier hardware and model guidance](HARDWARE_AND_MODELS.md). Memory allowances mean RAM available for AI, plus host headroom. One app-managed native runs at a time. Downloading does not stop the current native; starting another confirms its owned shutdown first. Larger previews are not automatically started. Older model files/preferences stay distinct.
-
-The entire first installation is not guaranteed offline: Microsoft Edge WebView2 is required, and its embedded bootstrapper downloads the runtime if it is missing. Granite weights and the CPU engine do not need a model download. Native inference can run offline once prepared; optional downloads, cloud providers and connected features still need internet.
+All four native models are optional downloads in **Settings → Agent 589**. Download files, then select Start. No automatic model download/start occurs. The first Start may download the pinned CPU engine. The installer retains only the small licensed Windows dependency and notices. WebView2 may need internet if missing; native inference runs offline after preparation.
 
 ## Mini preconfigured preview
 
@@ -42,28 +28,14 @@ Stop the model and close the app before moving/backing up the folder. Main paths
 
 | Field | Verified value |
 | --- | --- |
-| Filename | `I.M.P.E.R.I.U.M_0.2.18_x64-setup.exe` |
-| Size | **2,121,086,979 bytes** |
-| SHA-256 | `26C020C6EBC451D329B8A40FEB6008DFC79119E2F0623E94B59688D79A6E2D6B` |
-| Application file/product version | **0.2.18.0** |
-| Installer / application Authenticode | **NotSigned / NotSigned** |
-| Update route | Manual official download; no signed automatic updater claimed |
+| Filename | `I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe` |
+| Size | 34,258,002 bytes |
+| SHA-256 | `886ACB5DBB9E15795F9DAB8CF014CFC12C455E139A6936FED4CFDE7B00FA7D11` |
+| App version | 0.2.19.0 |
+| Installer / app Authenticode | NotSigned / NotSigned |
 
-The exact 17-file declared extracted payload passed inventory checks, with the exact expected Tauri NSIS executable marker change and all other bytes identical and no source overlay. [Read the scoped verification record](RELEASE_0_2_18_STATUS.md). The exact remote download matches this identity. Rebuilding or signing changes the bytes and requires a new audit.
+The exact 15-file extracted inventory passed checks. [Read the scoped evidence](RELEASE_0_2_19_STATUS.md). No new portable version is implied.
 
-Axiom Risk confirmed the required Microsoft runtime redistribution entitlement. This is a publisher confirmation, not independent legal certification; original notices and applicable terms still matter.
+Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe"` and compare the complete hash. Save work, close the app and keep backups. Keep Windows protection enabled. Real-data upgrade and separate-device installation remain unverified here.
 
-## Verify before running
-
-1. Download the exact official asset above.
-2. In PowerShell, run `Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe"` and compare the complete result with the hash above.
-3. Read the unsigned status and limitations. A checksum does not establish a signed publisher.
-4. Save work, close the app and keep independent backups before upgrading.
-
-Do not disable antivirus to bypass a concern. Fresh physical-device installation and upgrades of real customer data remain unverified here. Normal upgrades replace installed program files while preserving data outside that tree. Uninstalling is not complete data erasure.
-
-## Portable qualification
-
-Portable editions require their own exact archive, dependency, clean-profile/relocation and lifecycle checks. An optional in-app model download is not a preconfigured portable edition. Old ZIPs keep their original version and limitations.
-
-[Getting started](GETTING_STARTED.md) · [Release status](RELEASE_0_2_18_STATUS.md) · [Hardware](HARDWARE_AND_MODELS.md)
+[Getting started](GETTING_STARTED.md) · [Hardware](HARDWARE_AND_MODELS.md)
