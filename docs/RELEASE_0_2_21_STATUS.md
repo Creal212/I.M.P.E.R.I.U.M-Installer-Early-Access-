@@ -15,7 +15,7 @@ Recorded **2026-09-24**. Scoped early access, not all-device or model-quality ce
 | Packaging | Per-file LZMA; embedded WebView2 bootstrapper, internet needed if WebView2 is missing |
 | Model quality | Not qualified |
 | Physical-device installation / real-data upgrades | Not established |
-| Publication | Pending remote size and SHA-256 verification against this installer |
+| Publication | Remote size and SHA-256 verified against this installer |
 
 Focused unit coverage for related-profile permission sync and lease-aligned guidance passed. Final package identity matches the table above. Separate-device installation remains unverified here.
 
