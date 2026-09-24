@@ -8,6 +8,10 @@
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
+## Next release — source preparation
+
+[0.2.19 changes](releases/v0.2.19.md) prepare a smaller, download-only installer and provider fixes. No new installer size, checksum or download is announced yet; use the published package below.
+
 ## Latest installer — 0.2.18
 
 [**Download the latest Windows x64 installer · 0.2.18**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.18/I.M.P.E.R.I.U.M_0.2.18_x64-setup.exe) · [What changed](releases/v0.2.18.md) · [Setup and checksum](docs/DOWNLOADS.md)

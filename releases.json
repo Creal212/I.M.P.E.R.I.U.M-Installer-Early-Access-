@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.18",
+  "latestBuiltVersion": "0.2.19",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.19",
+      "recordDate": "2026-09-24",
+      "title": "The lighter installer and provider reliability update",
+      "status": "prepared",
+      "buildState": "built",
+      "notes": "releases/v0.2.19.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.19/I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe",
+          "bytes": 34258002,
+          "sha256": "886acb5dbb9e15795f9dab8cf014cfc12c455e139a6936fed4cfde7b00fa7d11",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_19_STATUS.md",
+            "summary": "Exact installer extraction, version, resource inventory and release verification passed. The packaged app stayed responsive to Windows input-idle checks during a 15-second isolated process smoke, without automatic native setup, model processes or integrity failure receipts; this was not a full UI or physical-device installation test. Final targeted checks passed: 123 Rust regressions, 122 UI tests and TypeScript. Synthetic NSIS lifecycle checks preserved five project/settings/history/model sentinels. Live Codex requests produced readable greetings and capabilities, a typed clarification, a small Python candidate whose reviewed tests passed, a decoded Workspace PNG and cited web search plus readable HTTPS fetch. Tests used disposable data, preserved outside-file canaries and did not alter real provider permissions. Other providers have protocol fixtures, not universal live certification; native model quality and separate-device installation remain unqualified."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.18",
       "recordDate": "2026-09-24",

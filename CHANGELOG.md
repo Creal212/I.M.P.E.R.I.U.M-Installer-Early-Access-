@@ -2,6 +2,10 @@
 
 Dates reproduce source version notes, not inferred public upload dates. Only official attached release assets are app packages.
 
+## Next release — source preparation
+
+[0.2.19 changes](releases/v0.2.19.md) prepare a smaller, download-only installer and provider fixes. No new installer size, checksum or download is announced yet; use the published package below.
+
 ## Latest published installer
 
 **[0.2.18 — The guided-build and native setup update](releases/v0.2.18.md)** is the current unsigned manual early-access installer. [Download and verify](docs/DOWNLOADS.md).

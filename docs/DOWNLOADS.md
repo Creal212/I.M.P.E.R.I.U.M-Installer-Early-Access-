@@ -4,6 +4,10 @@
 
 Only official attached release assets are app packages. GitHub repository/source archives are not installers. This is an unsigned early-access build with manual updates.
 
+## Next release — source preparation
+
+[0.2.19 changes](../releases/v0.2.19.md) prepare a smaller, download-only installer and provider fixes. No new installer size, checksum or download is announced yet; use the published package below.
+
 ## Editions
 
 | Edition | Status |
