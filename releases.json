@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.17",
+  "latestBuiltVersion": "0.2.18",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.18",
+      "recordDate": "2026-09-24",
+      "title": "The guided-build and native setup update",
+      "status": "prepared",
+      "buildState": "built",
+      "notes": "releases/v0.2.18.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.18_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.18/I.M.P.E.R.I.U.M_0.2.18_x64-setup.exe",
+          "bytes": 2121086979,
+          "sha256": "26c020c6ebc451d329b8a40feb6008dfc79119e2f0623e94b59688d79a6e2d6b",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_18_STATUS.md",
+            "summary": "Exact installer extraction, pinned Granite/runtime payload, 15 resource hashes, 130 UI asset hashes and native version/build comparison passed. Scoped model-free desktop and installer lifecycle checks passed. A 15-second isolated app-process startup check passed with native setup dismissed and no inference. Native coding quality remains unqualified; fresh-device installation, real-data upgrades and all-provider live behavior remain unverified."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.17",
       "recordDate": "2026-09-23",
