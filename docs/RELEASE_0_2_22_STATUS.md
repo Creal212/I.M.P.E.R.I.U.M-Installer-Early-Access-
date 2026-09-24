@@ -12,7 +12,7 @@ Recorded **2026-09-24**. Scoped early access, not all-device or model-quality ce
 | Declared change | Imported agents always receive clone create/edit tools; Main stays blocked |
 | Model quality | Not qualified |
 | Physical-device installation / real-data upgrades | Not established |
-| Publication | Pending remote size and SHA-256 verification against this installer |
+| Publication | Remote size and SHA-256 verified against this installer |
 
 Focused coverage confirmed a saved read-only flag still advertises clone patch tools. Final package identity matches the table above.
 
