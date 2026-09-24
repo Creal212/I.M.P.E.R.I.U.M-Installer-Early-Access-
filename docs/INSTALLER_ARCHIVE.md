@@ -2,6 +2,16 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.20 — I.M.P.E.R.I.U.M_0.2.20_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.20/I.M.P.E.R.I.U.M_0.2.20_x64-setup.exe) · [Original notes](../releases/v0.2.20.md) · [Original verification](../docs/RELEASE_0_2_20_STATUS.md)
+
+34,252,512 bytes · unsigned
+
+SHA-256: `0B8AFE6ABD3BE49B470E767873FF62443E9D7E6DCAC6E76F4216636F70D77295`
+
+Focused unit coverage for clone-mutation phrasing and saved Workspace write grants passed. Manual early-access updates; unsigned.
+
 ## 0.2.19 — I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.19/I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe) · [Original notes](../releases/v0.2.19.md) · [Original verification](../docs/RELEASE_0_2_19_STATUS.md)

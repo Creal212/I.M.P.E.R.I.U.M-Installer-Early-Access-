@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.20",
+  "latestBuiltVersion": "0.2.21",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.21",
+      "recordDate": "2026-09-24",
+      "title": "Clone write lease and Console auto-scroll",
+      "status": "published",
+      "buildState": "built",
+      "notes": "releases/v0.2.21.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.21_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.21/I.M.P.E.R.I.U.M_0.2.21_x64-setup.exe",
+          "bytes": 34203636,
+          "sha256": "8221ad315628e54a3127be271cf9cbe06cd1fb450fba76eba2ecfb047526bcde",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_21_STATUS.md",
+            "summary": "Focused unit coverage for related-profile permission sync and lease-aligned guidance passed. Final package identity: I.M.P.E.R.I.U.M_0.2.21_x64-setup.exe, 34203636 bytes, SHA-256 8221ad315628e54a3127be271cf9cbe06cd1fb450fba76eba2ecfb047526bcde. Separate-device installation remains unverified here. Unsigned early-access NSIS installer; manual updates."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.20",
       "recordDate": "2026-09-24",
