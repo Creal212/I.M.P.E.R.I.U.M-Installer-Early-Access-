@@ -20,7 +20,7 @@ Source-record date: **2026-09-24**. This is a scoped early-access record, not ce
 | Model quality | **Not qualified**; recorded failures and incomplete results remain limitations |
 | Fresh physical-device installation / real-data upgrade | **Not run / not established** by this record |
 | New portable package | None; old 0.2.15 Mini preview stays its own version |
-| Publication | No public download claim. Remote download verification is still required before publication. |
+| Publication | Exact remote download size and SHA-256 match the verified local installer. |
 
 Exact installer extraction, pinned Granite/runtime payload, 15 resource hashes, 130 UI asset hashes and native version/build comparison passed. Scoped model-free desktop and installer lifecycle checks passed. A 15-second isolated app-process startup check passed with native setup dismissed and no inference. Native coding quality remains unqualified; fresh-device installation, real-data upgrades and all-provider live behavior remain unverified.
 

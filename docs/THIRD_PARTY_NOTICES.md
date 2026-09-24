@@ -2,9 +2,9 @@
 
 The product's proprietary terms do not override third-party licenses. Required license/attribution texts must accompany the exact package. This overview is not a complete software bill of materials or a substitute for those texts.
 
-## Four-tier source preparation for 0.2.18
+## Four-tier contents and optional models for 0.2.18
 
-This section identifies the restored baseline and optional models selected for the next release. It does not announce a built installer or change which package is the latest published download. Read the exact version's release notes and supplied offline notices.
+The 0.2.18 installer includes the restored Lite baseline; larger models remain optional downloads. Read the exact version's release notes and supplied offline notices. Package availability does not establish model quality.
 
 | Component | Selected artifact / attribution | License or notice |
 | --- | --- | --- |

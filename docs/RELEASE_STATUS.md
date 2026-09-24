@@ -1,10 +1,14 @@
 # Release status
 
-Recorded **23 September 2026**.
+Recorded **2026-09-24**.
 
-## Latest installer — 0.2.17
+## Latest installer — 0.2.18
 
-The Windows x64 **0.2.17 installer** passed its local build and release validation of 130 embedded interface assets and 14 bundled resources. The declared payload members separately passed exact extracted-inventory verification. A fresh-profile process check reached input-idle readiness and stayed running for 15 seconds without integrity/startup errors or automatic model startup. The package is unsigned and uses manual early-access installation/updates. Read its [identity](DOWNLOADS.md) and [scoped verification record](RELEASE_0_2_17_STATUS.md). Public GitHub upload sizes and SHA-256 digests match the verified local files.
+The unsigned manual early-access installer includes restored Granite Lite and shared harness/setup changes. Exact local/extracted inventory and remote-download identity passed. Desktop and installer lifecycle checks were scoped; model quality is not qualified and fresh-device installation remains not run. [Exact evidence](RELEASE_0_2_18_STATUS.md) · [Download](DOWNLOADS.md).
+
+## Historical installer — 0.2.17
+
+The Windows x64 **0.2.17 installer** passed its local build and release validation of 130 embedded interface assets and 14 bundled resources. The declared payload members separately passed exact extracted-inventory verification. A fresh-profile process check reached input-idle readiness and stayed running for 15 seconds without integrity/startup errors or automatic model startup. The package is unsigned and uses manual early-access installation/updates. Read its [archived identity](INSTALLER_ARCHIVE.md) and [scoped verification record](RELEASE_0_2_17_STATUS.md). Public GitHub upload sizes and SHA-256 digests match the verified local files.
 
 ## Historical installer — 0.2.15
 
@@ -14,7 +18,9 @@ Retained local checks covered 130 UI assets and 14 resources, plus an extracted-
 
 Axiom Risk confirmed the required Microsoft runtime redistribution entitlement. Exact bundled notices and the remaining inventory review still apply; publisher confirmation is not an independent legal opinion.
 
-## Unbuilt work
+## Unbuilt work — original checkpoint
+
+The following paragraph preserves the original 0.2.16 checkpoint status. Current baseline/preview availability and limitations are recorded above and in the 0.2.18 verification page.
 
 **0.2.16 is not an installer.** It is retained as a source checkpoint. The saved response/context and loading/activity fixes are included in 0.2.17, while native-model quality work remains paused and incomplete. The frozen QA format variation passed nine checks and one synthetic integration; its two live prompts have not run. No experimental replacement model is included in 0.2.17.
 

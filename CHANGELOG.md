@@ -1,24 +1,25 @@
 # Version history
 
-These curated records use dates from the publisher’s version notes. **A note date is not an inferred public release date.** Historical pages do not promise downloadable old binaries. Only attached official [release assets](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases) are app downloads.
+Dates reproduce source version notes, not inferred public upload dates. Only official attached release assets are app packages.
 
 ## Latest published installer
 
-**[0.2.17 — The Obsidian and Parchment update](releases/v0.2.17.md)** is the current unsigned, manual early-access installer. [Download and verify it](docs/DOWNLOADS.md).
+**[0.2.18 — The guided-build and native setup update](releases/v0.2.18.md)** is the current unsigned manual early-access installer. [Download and verify](docs/DOWNLOADS.md).
 
 ## Historical installers
 
-Earlier published downloads have a dedicated [Historical installers archive](docs/INSTALLER_ARCHIVE.md), separate from the latest installer. Preconfigured previews have their own status in [Downloads](docs/DOWNLOADS.md).
+[Earlier installers](docs/INSTALLER_ARCHIVE.md) are separate from the latest download. The 0.2.15 Mini ZIP remains an older preview.
 
 ## Unpublished work
 
-**[0.2.16](releases/v0.2.16.md)** is a source-only development milestone, not a published installer. Its notes do not establish an available binary. Native-model quality work remains paused and unqualified.
+[0.2.16](releases/v0.2.16.md) is a source-only milestone without a published installer. Native model quality remains unqualified; restoration/preview availability is not a new quality pass.
 
 ## Recorded change history
 
 | Version | Recorded date | Focus | State |
 | --- | --- | --- | --- |
-| [0.2.17](releases/v0.2.17.md) | 2026-09-23 | App-wide visual refresh and saved reliability improvements | Latest early-access installer |
+| [0.2.18](releases/v0.2.18.md) | 2026-09-24 | The guided-build and native setup update | Latest early-access installer |
+| [0.2.17](releases/v0.2.17.md) | 2026-09-23 | The Obsidian and Parchment update | Historical installer |
 | [0.2.16](releases/v0.2.16.md) | 2026-09-20 | Unreleased prompt reliability and policies | Unbuilt/unreleased |
 | [0.2.15](releases/v0.2.15.md) | 2026-09-13 | First-use guidance and account setup | Historical installer and Mini preview |
 | [0.2.14](releases/v0.2.14.md) | 2026-09-13 | Planning replies and Mini limits | Historical notes |
@@ -38,4 +39,4 @@ Earlier published downloads have a dedicated [Historical installers archive](doc
 | [0.2.0](releases/v0.2.0.md) | 2026-09-10 | Project lifecycle, native setup and previews | Historical notes |
 | [0.1.0](releases/v0.1.0.md) | 2026-08-21 | Desktop foundation | Historical notes |
 
-[Provenance](docs/RELEASE_PROVENANCE.md) · [Release qualifications](docs/RELEASE_STATUS.md)
+[Provenance](docs/RELEASE_PROVENANCE.md) · [Release status](docs/RELEASE_STATUS.md)

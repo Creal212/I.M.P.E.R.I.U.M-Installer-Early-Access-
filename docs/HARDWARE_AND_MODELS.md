@@ -1,17 +1,24 @@
-# Hardware and models
+# Hardware and native models
 
-| Tier | Intended role | Distribution status |
-| --- | --- | --- |
-| **Agent 589 Mini** | Smaller CPU text assistant for short requests | The 0.2.17 installer retains the bundled Qwen3-0.6B Q8_0 model and its matched CPU runtime. Complex coding and exact-output quality remain limited. |
-| **Agent 589** | Regular local model for more capable work on suitable hardware | Optional setup; no qualified portable package is claimed here. |
-| **Agent 589 Core** | Larger optional local model for substantial hardware | Do not infer compatibility from Mini working. Portable qualification remains pending. |
+The 0.2.18 installer contains the restored Lite baseline. Larger tiers are optional manual previews, available in native setup; no larger portable archive is implied.
 
-The product name does not prove a provider entitlement or capability. Exact underlying-model identity should appear in package notes and the app.
+Granite Lite and its CPU engine are included. The installer embeds the Microsoft Edge WebView2 bootstrapper, so installation needs internet if that required runtime is missing. Native inference can run offline after preparation. Optional larger-model downloads and connected providers need their own network connection.
 
-Model files, engine readiness and a responding model are separate states. Check measured RAM, GPU and storage guidance before starting. Multiple models and other apps reduce available resources; a weight file's size is not total runtime memory. Stop a running model deliberately if your device cannot support another.
+| Tier | Selected model | AI memory allowance | Status |
+| --- | --- | --- | --- |
+| **Agent 589 Lite** | IBM Granite 4.0 Micro Q4_K_M | 4 GiB | Included restored baseline with known code/test limitations |
+| **Agent 589 Mini** | Qwen2.5-Coder 7B Q4_K_M | 8 GiB | Optional manual Experimental preview; complete coding workflows unqualified |
+| **Agent 589** | Qwen2.5-Coder 14B Q5_K_M | 16 GiB | Optional manual Experimental preview; complete coding workflows unqualified |
+| **Agent 589 Core** | Devstral Small 2 24B Q4_K_M | 20 GiB | Optional Experimental; simulation-only integration evidence, no live qualification |
 
-No universal minimum or performance promise is made for planned portable editions. Publish requirements only for their actual bytes and clean-machine measurements. Development model folders are not package specifications.
+These are **RAM allowances available to AI**, not total installed system RAM or NVIDIA VRAM requirements. The current packages use the CPU runtime and require additional host headroom of at least 2 GiB. The app checks current memory before starting; download size is not total runtime memory, and an allowance is not a performance guarantee.
 
-Mini is text-only in the recorded release guidance. Image, audio, video and file creation need actual compatible models/providers and host tools. A skill cannot add a missing engine.
+One app-managed native runs at a time. Starting another confirms shutdown of the current owned native first. Downloading an optional model does not stop the active one. Imported providers and unrelated processes are separate. Stop/pause choices and older installations are preserved.
 
-Native-model quality work remains paused and incomplete. The 0.2.16 version is a source-only milestone; the 0.2.17 visual and reliability changes do not replace or qualify native models. QA candidates are not adopted merely because of upstream scores or isolated correct answers.
+Model files, runtime readiness and an authenticated responding model are separate. Only running identity-checked natives appear in task selectors. Larger tiers are not started automatically. If a start fails, inspect the visible setup error instead of assuming a project was lost.
+
+Older retained native models and the 0.2.15 Mini ZIP keep their original model IDs, runtime and requirements; their older GPU recommendations do not describe these four CPU packages. Heavy is not part of the active lineup.
+
+These native packages provide text/code assistance. Image, audio and video generation still require compatible models/providers and actual host tools. Skills do not add a missing engine or extra filesystem authority. Review and test generated work; none of these labels certifies coding correctness.
+
+[Downloads](DOWNLOADS.md) · [Exact release limitations](RELEASE_0_2_18_STATUS.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)

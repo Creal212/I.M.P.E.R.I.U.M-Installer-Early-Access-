@@ -1,8 +1,8 @@
 # Release-note provenance
 
-This is a curated public history, prepared from the publisher's frozen version-note records and updated on 23 September 2026. The records are implementation notes, not proof of public upload, independent certification or archived binary availability. Dates below are copied only from those records. Internal machine paths, QA process identities and private signing material are not published.
+This is a curated public history, prepared from the publisher's frozen version-note records and updated on 2026-09-24. The records are implementation notes, not proof of public upload, independent certification or archived binary availability. Dates below are copied only from those records. Internal machine paths, QA process identities and private signing material are not published.
 
-The current installer line is 0.2.17; the original 0.2.15 packages remain in the historical archive, and 0.2.16 remains a source-only milestone. Native-model quality work is paused. See [Release status](RELEASE_STATUS.md) and [Downloads](DOWNLOADS.md) for distribution and verification details.
+The current installer line is 0.2.18; 0.2.17 and 0.2.15 retain their original archive identities, and 0.2.16 remains a source-only milestone. Granite Lite is restored as a baseline; larger models are manual previews. Model auditions have stopped and quality remains unqualified. See [Release status](RELEASE_STATUS.md) and [Downloads](DOWNLOADS.md) for distribution and verification details.
 
 | Source record | Recorded date | SHA-256 of original note |
 | --- | --- | --- |
@@ -25,6 +25,7 @@ The current installer line is 0.2.17; the original 0.2.15 packages remain in the
 | [v0.2.15.md](../releases/v0.2.15.md) | 2026-09-13 | `E5B410FBC1CAB58A21DC91A3C8C2D7D8EBC1367A47FBC64A67D7CB0760293CAA` |
 | [v0.2.16.md](../releases/v0.2.16.md) | 2026-09-20 | `2B5D762DCFC8F267C42B4E0FC9FB81ECBA0D7887D23C7B8B5C61363D11EE2AD3` |
 | [v0.2.17.md](../releases/v0.2.17.md) | 2026-09-23 | `92991DE0CC77E466918D81DF4E64339AAA489C48A7199CAA6ACCE963CE4653FB` |
+| [v0.2.18.md](../releases/v0.2.18.md) | 2026-09-24 | `95FB19D613ED0C192E9266735AEBFFEA0C43F8FF4956A99BD58D8BA37720F39E` |
 
 The public pages summarize the relevant changes and data-preservation notes. They intentionally do not copy every implementation detail or make historical setup/model names into current promises. Later release records may supersede earlier workflows.
 

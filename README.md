@@ -8,15 +8,17 @@
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
-## Latest installer — 0.2.17
+## Latest installer — 0.2.18
 
-[**Download the latest Windows x64 installer · 0.2.17**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.17/I.M.P.E.R.I.U.M_0.2.17_x64-setup.exe) · [What changed](releases/v0.2.17.md) · [Setup and checksum](docs/DOWNLOADS.md)
+[**Download the latest Windows x64 installer · 0.2.18**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.18/I.M.P.E.R.I.U.M_0.2.18_x64-setup.exe) · [What changed](releases/v0.2.18.md) · [Setup and checksum](docs/DOWNLOADS.md)
 
 **New here? Start with the installer above.** Earlier downloads live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) also includes notes-only versions with no installer.
 
 [**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
-**Early access:** the 0.2.17 installer is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.17) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_17_STATUS.md). The older Mini preview remains version 0.2.15. GitHub's repository/source archives are not the application.
+**Early access:** the 0.2.18 installer is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.18) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_18_STATUS.md). The older Mini preview remains version 0.2.15. GitHub's repository/source archives are not the application.
+
+Granite Lite and its CPU engine are included. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Native inference can run offline once prepared; optional model downloads and connected features still need internet.
 
 I.M.P.E.R.I.U.M is a Windows desktop environment for working with AI on software projects, documents and plans. It keeps your original project, **Main**, separate from the **Clone** used for project work. Inspect changes, keep the work you want, create a named patch, and review what reaches Main.
 
@@ -44,8 +46,8 @@ Main's saved location supports patching; it is not a permanent network connectio
 
 | Package | Status |
 | --- | --- |
-| **0.2.17 Windows x64 installer** | Latest early-access installer; includes CPU Mini setup and the Obsidian/Parchment interface update. Unsigned; manual updates. [Notes](releases/v0.2.17.md) |
-| **Earlier 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include the 0.2.17 changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
+| **0.2.18 Windows x64 installer** | Latest early-access installer; includes restored Granite Lite, four native tiers and shared harness/setup improvements. Unsigned; manual updates. [Notes](releases/v0.2.18.md) |
+| **Earlier 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include the 0.2.18 changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
 | **Portable Agent 589** | Planned; no qualified package or download. |
 | **Portable Core** | Planned; no qualified package or download. |
 
@@ -55,7 +57,7 @@ The Mini preview has its own version and verification status; it is not automati
 
 Project-specific inspection, exclusions, saved states, reviewed patches, rollback history, skills/tool preferences and retained task reports support supervised work. Supported generated files are checked before delivery. **Shadow Verify (Experimental)** can preview supported projects using disclosed temporary substitutes.
 
-A scan pass describes its inspected scope, not a guarantee of safety. AI can produce incorrect code. Review important outputs and keep backups. Current CPU Mini is intended for short text assistance; complex coding and strict-output reliability remain limitations.
+A scan pass describes its inspected scope, not a guarantee of safety. AI can produce incorrect code. Review important outputs and keep backups. Restored Granite Lite has known code/test limitations; Mini and regular remain manual previews, and Core has simulation-only evidence. Runtime readiness is not a coding-quality certificate.
 
 Published by **Axiom Risk**, based in Minnesota. Contact [Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com).
 
