@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.21",
+  "latestBuiltVersion": "0.2.22",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.22",
+      "recordDate": "2026-09-24",
+      "title": "Clone is the agent playground",
+      "status": "published",
+      "buildState": "built",
+      "notes": "releases/v0.2.22.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.22_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.22/I.M.P.E.R.I.U.M_0.2.22_x64-setup.exe",
+          "bytes": 34223930,
+          "sha256": "f691bc9bb999a88de080b1f2082ac040c0603c5d33ebf6e38b547117fa219b72",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_22_STATUS.md",
+            "summary": "A saved read-only flag still advertises clone patch tools. Final package identity: I.M.P.E.R.I.U.M_0.2.22_x64-setup.exe, 34223930 bytes, SHA-256 f691bc9bb999a88de080b1f2082ac040c0603c5d33ebf6e38b547117fa219b72. Main and the real vault stay blocked. Unsigned early-access NSIS installer; manual updates."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.21",
       "recordDate": "2026-09-24",

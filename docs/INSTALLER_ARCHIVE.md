@@ -2,6 +2,16 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.21 — I.M.P.E.R.I.U.M_0.2.21_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.21/I.M.P.E.R.I.U.M_0.2.21_x64-setup.exe) · [Original notes](../releases/v0.2.21.md) · [Original verification](../docs/RELEASE_0_2_21_STATUS.md)
+
+34,203,636 bytes · unsigned
+
+SHA-256: `8221AD315628E54A3127BE271CF9CBE06CD1FB450FBA76EBA2ECFB047526BCDE`
+
+Clone write lease sync and Console auto-scroll. Manual early-access updates; unsigned.
+
 ## 0.2.20 — I.M.P.E.R.I.U.M_0.2.20_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.20/I.M.P.E.R.I.U.M_0.2.20_x64-setup.exe) · [Original notes](../releases/v0.2.20.md) · [Original verification](../docs/RELEASE_0_2_20_STATUS.md)

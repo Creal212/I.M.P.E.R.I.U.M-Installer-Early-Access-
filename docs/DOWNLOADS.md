@@ -1,6 +1,6 @@
 # Latest installer and verification
 
-[**Download 0.2.21 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.21/I.M.P.E.R.I.U.M_0.2.21_x64-setup.exe) · [Changes](../releases/v0.2.21.md) · [Historical installers](INSTALLER_ARCHIVE.md)
+[**Download 0.2.22 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.22/I.M.P.E.R.I.U.M_0.2.22_x64-setup.exe) · [Changes](../releases/v0.2.22.md) · [Historical installers](INSTALLER_ARCHIVE.md)
 
 Only attached official release assets are app packages. This installer is unsigned and uses manual updates. Repository/source archives are not the application.
 
@@ -28,13 +28,13 @@ Stop the model and close the app before moving/backing up the folder. Main paths
 
 | Field | Verified value |
 | --- | --- |
-| Filename | `I.M.P.E.R.I.U.M_0.2.21_x64-setup.exe` |
-| Size | 34,203,636 bytes |
-| SHA-256 | `8221AD315628E54A3127BE271CF9CBE06CD1FB450FBA76EBA2ECFB047526BCDE` |
-| App version | 0.2.21.0 |
+| Filename | `I.M.P.E.R.I.U.M_0.2.22_x64-setup.exe` |
+| Size | 34,223,930 bytes |
+| SHA-256 | `F691BC9BB999A88DE080B1F2082AC040C0603C5D33EBF6E38B547117FA219B72` |
+| App version | 0.2.22.0 |
 | Installer / app Authenticode | NotSigned / NotSigned |
 
-The exact extracted inventory passed checks. [Read the scoped evidence](RELEASE_0_2_21_STATUS.md). No new portable version is implied.
+The exact extracted inventory passed checks. [Read the scoped evidence](RELEASE_0_2_22_STATUS.md). No new portable version is implied.
 
 Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe"` and compare the complete hash. Save work, close the app and keep backups. Keep Windows protection enabled. Real-data upgrade and separate-device installation remain unverified here.
 
