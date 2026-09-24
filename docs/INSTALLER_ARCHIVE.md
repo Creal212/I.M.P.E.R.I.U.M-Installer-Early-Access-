@@ -2,6 +2,15 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.22 - I.M.P.E.R.I.U.M_0.2.22_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.22/I.M.P.E.R.I.U.M_0.2.22_x64-setup.exe) · [Original notes](../releases/v0.2.22.md) · [Original verification](../docs/RELEASE_0_2_22_STATUS.md)
+
+34,223,930 bytes · unsigned
+
+SHA-256: `F691BC9BB999A88DE080B1F2082AC040C0603C5D33EBF6E38B547117FA219B72`
+
+Clone is the agent playground. Manual early-access updates; unsigned.
 ## 0.2.21 — I.M.P.E.R.I.U.M_0.2.21_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.21/I.M.P.E.R.I.U.M_0.2.21_x64-setup.exe) · [Original notes](../releases/v0.2.21.md) · [Original verification](../docs/RELEASE_0_2_21_STATUS.md)
