@@ -8,15 +8,15 @@
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
-## Latest installer — 0.2.19
+## Latest installer — 0.2.20
 
-[**Download the latest Windows x64 installer · 0.2.19**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.19/I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe) · [What changed](releases/v0.2.19.md) · [Setup and checksum](docs/DOWNLOADS.md)
+[**Download the latest Windows x64 installer · 0.2.20**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.20/I.M.P.E.R.I.U.M_0.2.20_x64-setup.exe) · [What changed](releases/v0.2.20.md) · [Setup and checksum](docs/DOWNLOADS.md)
 
 **New here? Start with the installer above.** Earlier downloads live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) also includes notes-only versions with no installer.
 
 [**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
-**Early access:** the 0.2.19 installer is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.19) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_19_STATUS.md). The older Mini preview remains version 0.2.15. GitHub's repository/source archives are not the application.
+**Early access:** the 0.2.20 installer is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.20) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_20_STATUS.md). The older Mini preview remains version 0.2.15. GitHub's repository/source archives are not the application.
 
 All four native models are optional downloads in Settings → Agent 589; nothing downloads or starts automatically. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Native inference can run offline once prepared; optional model downloads and connected features still need internet.
 
@@ -46,8 +46,8 @@ Main's saved location supports patching; it is not a permanent network connectio
 
 | Package | Status |
 | --- | --- |
-| **0.2.19 Windows x64 installer** | Latest early-access installer; uses a smaller download-only installer, optional native models and provider reliability improvements. Unsigned; manual updates. [Notes](releases/v0.2.19.md) |
-| **Earlier 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include the 0.2.19 changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
+| **0.2.20 Windows x64 installer** | Latest early-access installer; restores Workspace clone Read and edit reactivation so agents regain create/edit tools after Read only. Unsigned; manual updates. [Notes](releases/v0.2.20.md) |
+| **Earlier 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include the 0.2.20 changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
 | **Portable Agent 589** | Planned; no qualified package or download. |
 | **Portable Core** | Planned; no qualified package or download. |
 

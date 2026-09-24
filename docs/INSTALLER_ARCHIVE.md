@@ -2,6 +2,16 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.19 — I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.19/I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe) · [Original notes](../releases/v0.2.19.md) · [Original verification](../docs/RELEASE_0_2_19_STATUS.md)
+
+34,258,002 bytes · unsigned
+
+SHA-256: 886ACB5DBB9E15795F9DAB8CF014CFC12C455E139A6936FED4CFDE7B00FA7D11
+
+Exact installer extraction, version, resource inventory and release verification passed. Scoped smoke and provider checks are recorded in the original verification note. Native coding quality remains unqualified; fresh-device installation remains unverified. Manual early-access updates; unsigned.
+
 ## 0.2.18 — I.M.P.E.R.I.U.M_0.2.18_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.18/I.M.P.E.R.I.U.M_0.2.18_x64-setup.exe) · [Original notes](../releases/v0.2.18.md) · [Original verification](../docs/RELEASE_0_2_18_STATUS.md)

@@ -4,7 +4,11 @@ Dates reproduce the frozen source notes, not inferred public upload dates. Only 
 
 ## Latest published installer
 
-[0.2.19 — The lighter installer and provider reliability update](releases/v0.2.19.md) · [Download](docs/DOWNLOADS.md)
+[0.2.20 — Clone edit reactivation fix](releases/v0.2.20.md) · [Download](docs/DOWNLOADS.md)
+
+## Previous latest
+
+[0.2.19 — The lighter installer and provider reliability update](releases/v0.2.19.md) · historical after 0.2.20
 
 ## Historical installers
 
@@ -16,7 +20,8 @@ Entries marked historical or unreleased are notes-only milestones; they do not s
 
 | Version | Date | Focus | State |
 | --- | --- | --- | --- |
-| [0.2.19](releases/v0.2.19.md) | 2026-09-24 | The lighter installer and provider reliability update | Latest installer |
+| [0.2.20](releases/v0.2.20.md) | 2026-09-24 | Clone edit reactivation fix | Latest installer |
+| [0.2.19](releases/v0.2.19.md) | 2026-09-24 | The lighter installer and provider reliability update | Historical installer |
 | [0.2.18](releases/v0.2.18.md) | 2026-09-24 | The guided-build and native setup update | Historical installer |
 | [0.2.17](releases/v0.2.17.md) | 2026-09-23 | The Obsidian and Parchment update | Historical installer |
 | [0.2.16](releases/v0.2.16.md) | 2026-09-20 | Unreleased prompt reliability and policies | unreleased |

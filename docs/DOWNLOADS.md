@@ -1,6 +1,6 @@
 # Latest installer and verification
 
-[**Download 0.2.19 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.19/I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe) · [Changes](../releases/v0.2.19.md) · [Historical installers](INSTALLER_ARCHIVE.md)
+[**Download 0.2.20 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.20/I.M.P.E.R.I.U.M_0.2.20_x64-setup.exe) · [Changes](../releases/v0.2.20.md) · [Historical installers](INSTALLER_ARCHIVE.md)
 
 Only attached official release assets are app packages. This installer is unsigned and uses manual updates. Repository/source archives are not the application.
 
@@ -28,14 +28,14 @@ Stop the model and close the app before moving/backing up the folder. Main paths
 
 | Field | Verified value |
 | --- | --- |
-| Filename | `I.M.P.E.R.I.U.M_0.2.19_x64-setup.exe` |
-| Size | 34,258,002 bytes |
-| SHA-256 | `886ACB5DBB9E15795F9DAB8CF014CFC12C455E139A6936FED4CFDE7B00FA7D11` |
-| App version | 0.2.19.0 |
+| Filename | I.M.P.E.R.I.U.M_0.2.20_x64-setup.exe |
+| Size | 34,252,512 bytes |
+| SHA-256 | 0B8AFE6ABD3BE49B470E767873FF62443E9D7E6DCAC6E76F4216636F70D77295 |
+| App version | 0.2.20.0 |
 | Installer / app Authenticode | NotSigned / NotSigned |
 
-The exact 15-file extracted inventory passed checks. [Read the scoped evidence](RELEASE_0_2_19_STATUS.md). No new portable version is implied.
+The exact extracted inventory passed checks. [Read the scoped evidence](RELEASE_0_2_20_STATUS.md). No new portable version is implied.
 
-Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe"` and compare the complete hash. Save work, close the app and keep backups. Keep Windows protection enabled. Real-data upgrade and separate-device installation remain unverified here.
+Use PowerShell Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe" and compare the complete hash. Save work, close the app and keep backups. Keep Windows protection enabled. Real-data upgrade and separate-device installation remain unverified here.
 
 [Getting started](GETTING_STARTED.md) · [Hardware](HARDWARE_AND_MODELS.md)
