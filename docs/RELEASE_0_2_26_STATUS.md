@@ -1,6 +1,6 @@
 # 0.2.26 release verification
 
-Recorded **2026-09-27**. **Built and locally verified; public download pending.**
+Recorded **2026-09-27**. **Published after exact local package and public-download identity verification.**
 
 | Field | Evidence |
 | --- | --- |
@@ -10,7 +10,7 @@ Recorded **2026-09-27**. **Built and locally verified; public download pending.*
 | App version | 0.2.26.0 |
 | Installer / app Authenticode | NotSigned / NotSigned |
 | Exact extraction / embedded resources | Exact extraction, embedded resource inventory and native-build identity verified |
-| Public download identity | NOT RUN — publication pending |
+| Public download identity | Public asset byte count and SHA-256 match this installer |
 | Desktop UI | 81 passed across 8 files; scoped source tests |
 | Desktop Studio commands | 49 passed; stale guidance-parser test helper corrected |
 | Clone/task boundary and publication checks | 45 passed |

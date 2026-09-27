@@ -1,8 +1,8 @@
 # Release-note provenance
 
-This is a curated public history, prepared from the publisher's version-note records and updated on 2026-09-27. Frozen historical records retain their original dates and identities alongside the 0.2.25 release. The records are implementation notes, not proof of public upload, independent certification or archived binary availability. Dates below are copied only from those records. Internal machine paths, QA process identities and private signing material are not published.
+This is a curated public history, prepared from the publisher's version-note records and updated on 2026-09-27. Frozen historical records retain their original dates and identities alongside the 0.2.26 release. The records are implementation notes, not proof of public upload, independent certification or archived binary availability. Dates below are copied only from those records. Internal machine paths, QA process identities and private signing material are not published.
 
-The latest installer is **0.2.25**. The historical 0.2.24 and all earlier published packages retain their original identities; 0.2.16 remains a source-only milestone. All four native models remain optional in-app downloads. This interface release does not establish new model-quality evidence. See [Release status](RELEASE_STATUS.md) and [Downloads](DOWNLOADS.md) for distribution and verification details.
+The latest installer is **0.2.26**. The historical 0.2.25, 0.2.24 and all earlier published packages retain their original identities; 0.2.16 remains a source-only milestone. All four native models remain optional in-app downloads. The 0.2.26 release includes bounded live Codex transport/file evidence, not general model-quality certification. The original .26 source-note hash is retained below; the public note is a curated summary. See [Release status](RELEASE_STATUS.md) and [Downloads](DOWNLOADS.md) for distribution and verification details.
 
 | Source record | Recorded date | SHA-256 of original note |
 | --- | --- | --- |
@@ -31,6 +31,7 @@ The latest installer is **0.2.25**. The historical 0.2.24 and all earlier publis
 | [v0.2.23.md](../releases/v0.2.23.md) | 2026-09-24 | `7E50D5CD12B90D2370FD36AD6452A08BC60DFF1EF6AE357CBDF811B62D830A23` |
 | [v0.2.24.md](../releases/v0.2.24.md) | 2026-09-24 | `0AD3F636D61D33815ADC55839810086AB3A2126FB6010CAE44615EE94BE7DE8F` |
 | [v0.2.25.md](../releases/v0.2.25.md) | 2026-09-27 | `C6EE62B0269BBBB387F5D86343A6D259F52714FDF2500ADA9B3DB71F07861150` |
+| [v0.2.26.md](../releases/v0.2.26.md) | 2026-09-27 | `3A7EAAD299502701ED3F64F81E621233690E018AD80678C2EC78C1AE6B272A57` |
 
 The original source-note hashes for 0.2.21 and 0.2.22 were not available in this note-hash audit. Their public notes and exact package identities remain preserved in the archive; no missing note hash is inferred from a binary hash.
 

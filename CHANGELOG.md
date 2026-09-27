@@ -2,19 +2,20 @@
 
 Dates reproduce recorded release notes, not inferred public upload dates. Only attached official release assets are app packages.
 
-## Latest published installer — 0.2.25
+## Latest published installer — 0.2.26
 
-[0.2.25 — The Atelier and Agent 589 update](releases/v0.2.25.md) · **Published unsigned early-access installer** · [Download status and verification](docs/DOWNLOADS.md)
+[0.2.26 — Room to build, connected media and a grounded guide](releases/v0.2.26.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
 
-Six new themes, animated Home artwork, a configurable local Agent 589 companion, developer-portrait asides and restored narrow IPC command grants. The verified 0.2.25 installer is separate from all historical packages.
+In-zone agent building, selected-provider image/video tools, independent Studio policy and more reliable guide surfaces. Read the scoped live, simulated and untested evidence in the release notes.
 
 ## Historical installers
 
-[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.24 installer is now historical and retains its original identity.
+[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.25 installer is now historical and retains its original identity.
 
 | Version | Recorded date | Focus | State |
 | --- | --- | --- | --- |
-| [0.2.25](releases/v0.2.25.md) | 2026-09-27 | The Atelier and Agent 589 update | Latest installer |
+| [0.2.26](releases/v0.2.26.md) | 2026-09-27 | Room to build, connected media and a grounded guide | Latest installer |
+| [0.2.25](releases/v0.2.25.md) | 2026-09-27 | The Atelier and Agent 589 update | Historical installer |
 | [0.2.24](releases/v0.2.24.md) | 2026-09-24 | Agent activity scrolling | Historical installer |
 | [0.2.23](releases/v0.2.23.md) | 2026-09-24 | Free-form clone Keep/Revert demos | Historical installer |
 | [0.2.22](releases/v0.2.22.md) | 2026-09-24 | Clone is the agent playground | Historical installer |

@@ -2,6 +2,16 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.25 — I.M.P.E.R.I.U.M_0.2.25_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.25/I.M.P.E.R.I.U.M_0.2.25_x64-setup.exe) · [Original notes](../releases/v0.2.25.md) · [Original verification](RELEASE_0_2_25_STATUS.md)
+
+34,921,188 bytes · unsigned
+
+SHA-256: `964135793EDE09BAA4AD4CF2644B629CA3F468F8F22C477A150D9CF95B604359`
+
+The Atelier palettes, Home animation, Agent 589 companion and portrait asides. Original installer and scoped qualifications remain unchanged.
+
 ## 0.2.24 — I.M.P.E.R.I.U.M_0.2.24_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.24/I.M.P.E.R.I.U.M_0.2.24_x64-setup.exe) · [Original notes](../releases/v0.2.24.md) · [Original verification](RELEASE_0_2_24_STATUS.md)

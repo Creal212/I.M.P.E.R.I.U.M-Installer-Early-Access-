@@ -1,6 +1,10 @@
 # Release status
 
-## Latest installer — 0.2.25
+## Latest installer — 0.2.26
+
+**Published unsigned early access.** In-zone build tools, supported selected-provider cloud media, independent Studio session policy and improved guide surfaces. [Exact evidence and limits](RELEASE_0_2_26_STATUS.md) · [Download](DOWNLOADS.md). One real Codex image and one real Astra file task passed; API/video protocol fixtures do not certify every account. Fresh-device and real-data upgrades remain untested.
+
+## Historical installer — 0.2.25
 
 **Published unsigned early access.** The manual-update installer includes eight coordinated palettes, animated Home artwork, a configurable local Agent 589 companion, Meet the developer portrait asides, and restoration of three narrowly scoped desktop command grants. Model downloads remain optional. Focused source/UI checks, exact package extraction, resource inventory, version and public-download identity verification passed. The release remains unsigned and uses manual updates. [0.2.25 evidence](RELEASE_0_2_25_STATUS.md) · [Download status](DOWNLOADS.md).
 
