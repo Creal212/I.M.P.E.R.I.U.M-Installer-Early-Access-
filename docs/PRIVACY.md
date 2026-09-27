@@ -1,6 +1,6 @@
 # Privacy notice
 
-Revision: **23 September 2026**
+Revision: **27 September 2026**
 
 Publisher: **Axiom Risk**, based in **Minnesota**  
 Contact: [Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com)
@@ -20,6 +20,12 @@ These records support continuing work, integrations, review and recovery. Paths 
 ## Network recipients
 
 A selected cloud provider can receive your prompt, permitted history, selected attachments, relevant clone excerpts and tool results. Authentication can disclose account/device details. Its retention, training and location terms apply; clearing local history does not erase its copies.
+
+In the 0.2.26 changes, supported image tools send a nonsensitive visual prompt through the selected Codex subscription or supported OpenAI, Google Gemini or xAI API connection. The xAI video tool sends a prompt to that selected API account and polls its job status. Provider usage charges or subscription allowances can apply. The app does not silently borrow another account or replace a subscription request with paid API billing. Stop ends local waiting/delivery; an accepted remote generation can continue and incur charges. Interrupted jobs are not automatically resubmitted.
+
+Generated images and videos can be stored with task receipts, Clones or Studio/Blueprint output records. Checks and quarantine reduce specific risks; image decoding and static MP4 inspection do not establish safe visual content, absence of malware or correct functionality. Do not include secrets or personal information unnecessarily in generation prompts.
+
+Studio Chat does not inherit an unrelated project's offline setting: its separate session supports the selected connection and enabled tools. Blueprint uses its selected project's policy. Choose an offline model and disable network tools for local-only Studio work; a project's offline setting does not disable Studio networking. Disabled tool permissions still apply. This distinction does not authorize cloud requests without the selected task and connection.
 
 Enabled web tools contact websites/services for the task. Model, runtime, skill and update downloads contact their hosts, which can receive ordinary connection information such as IP address and requested resource. Offline task use needs components already installed; it does not turn off Windows networking, other apps or separately initiated sign-in/download actions.
 
