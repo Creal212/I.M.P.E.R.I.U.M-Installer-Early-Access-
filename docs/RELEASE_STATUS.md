@@ -1,6 +1,22 @@
 # Release status
 
-## Latest installer — 0.2.19
+## Latest installer — 0.2.25
+
+**Published unsigned early access.** The manual-update installer includes eight coordinated palettes, animated Home artwork, a configurable local Agent 589 companion, Meet the developer portrait asides, and restoration of three narrowly scoped desktop command grants. Model downloads remain optional. Focused source/UI checks, exact package extraction, resource inventory, version and public-download identity verification passed. The release remains unsigned and uses manual updates. [0.2.25 evidence](RELEASE_0_2_25_STATUS.md) · [Download status](DOWNLOADS.md).
+
+Existing broader-suite failures remain documented; fresh-device installation, real-data upgrades and native/imported-model quality were not evaluated in this interface release. The shared security boundaries and confirmation requirements remain in place.
+
+Recorded **2026-09-27**.
+
+## Historical installer — 0.2.24
+
+The published 0.2.24 package fixes Workspace Agent activity bottom-panel scrolling. Its exact original identity and scoped verification remain preserved. [Original verification](RELEASE_0_2_24_STATUS.md) · [Archived download](INSTALLER_ARCHIVE.md).
+
+## Historical installers — 0.2.20 through 0.2.23
+
+Clone editing, write-lease synchronization and Keep/Revert changes retain their versioned notes and package identities in [Historical installers](INSTALLER_ARCHIVE.md). None is relabeled as a later release.
+
+## Historical installer — 0.2.19
 
 Exact installer extraction, version, resource inventory and release verification passed. The packaged app stayed responsive to Windows input-idle checks during a 15-second isolated process smoke, without automatic native setup, model processes or integrity failure receipts; this was not a full UI or physical-device installation test. Final targeted checks passed: 123 Rust regressions, 122 UI tests and TypeScript. Synthetic NSIS lifecycle checks preserved five project/settings/history/model sentinels. Live Codex requests produced readable greetings and capabilities, a typed clarification, a small Python candidate whose reviewed tests passed, a decoded Workspace PNG and cited web search plus readable HTTPS fetch. Tests used disposable data, preserved outside-file canaries and did not alter real provider permissions. Other providers have protocol fixtures, not universal live certification; native model quality and separate-device installation remain unqualified. [Evidence](RELEASE_0_2_19_STATUS.md) · [Download](DOWNLOADS.md). All native models are optional Settings downloads.
 
@@ -24,7 +40,7 @@ Axiom Risk confirmed the required Microsoft runtime redistribution entitlement. 
 
 ## Unbuilt work — original checkpoint
 
-The following paragraph preserves the original 0.2.16 checkpoint status. Current baseline/preview availability and limitations are recorded above and in the 0.2.18 verification page.
+The following paragraph preserves the original 0.2.16 checkpoint status. Current availability is recorded above and in [Downloads](DOWNLOADS.md); historical model and preview limitations remain attached to their original versions.
 
 **0.2.16 is not an installer.** It is retained as a source checkpoint. The saved response/context and loading/activity fixes are included in 0.2.17, while native-model quality work remains paused and incomplete. The frozen QA format variation passed nine checks and one synthetic integration; its two live prompts have not run. No experimental replacement model is included in 0.2.17.
 

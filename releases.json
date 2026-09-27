@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.24",
+  "latestBuiltVersion": "0.2.25",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.25",
+      "recordDate": "2026-09-27",
+      "title": "The Atelier and Agent 589 update",
+      "status": "published",
+      "buildState": "built",
+      "notes": "releases/v0.2.25.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.25_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.25/I.M.P.E.R.I.U.M_0.2.25_x64-setup.exe",
+          "bytes": 34921188,
+          "sha256": "964135793ede09baa4ad4cf2644b629ca3f468f8f22c477a150d9cf95b604359",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_25_STATUS.md",
+            "summary": "Exact package extraction, resource inventory, version and unsigned-signature status verified. Focused desktop checks: 331 passed across 9 files. Eight app palettes, animated Home, local Agent 589 guide and portrait asides. Broader preexisting suite failures remain documented; model quality, fresh-device installation and real-data upgrades were not evaluated. Unsigned early access with manual updates."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.24",
       "recordDate": "2026-09-24",

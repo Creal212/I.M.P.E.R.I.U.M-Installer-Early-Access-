@@ -1,8 +1,8 @@
 # Release-note provenance
 
-This is a curated public history, prepared from the publisher's frozen version-note records and updated on 2026-09-24. The records are implementation notes, not proof of public upload, independent certification or archived binary availability. Dates below are copied only from those records. Internal machine paths, QA process identities and private signing material are not published.
+This is a curated public history, prepared from the publisher's version-note records and updated on 2026-09-27. Frozen historical records retain their original dates and identities alongside the 0.2.25 release. The records are implementation notes, not proof of public upload, independent certification or archived binary availability. Dates below are copied only from those records. Internal machine paths, QA process identities and private signing material are not published.
 
-The current installer line is 0.2.19; 0.2.18, 0.2.17 and 0.2.15 retain their original archive identities, and 0.2.16 remains a source-only milestone. Granite Lite is restored as a baseline; larger models are manual previews. Model auditions have stopped and quality remains unqualified. See [Release status](RELEASE_STATUS.md) and [Downloads](DOWNLOADS.md) for distribution and verification details.
+The latest installer is **0.2.25**. The historical 0.2.24 and all earlier published packages retain their original identities; 0.2.16 remains a source-only milestone. All four native models remain optional in-app downloads. This interface release does not establish new model-quality evidence. See [Release status](RELEASE_STATUS.md) and [Downloads](DOWNLOADS.md) for distribution and verification details.
 
 | Source record | Recorded date | SHA-256 of original note |
 | --- | --- | --- |
@@ -27,6 +27,12 @@ The current installer line is 0.2.19; 0.2.18, 0.2.17 and 0.2.15 retain their ori
 | [v0.2.17.md](../releases/v0.2.17.md) | 2026-09-23 | `92991DE0CC77E466918D81DF4E64339AAA489C48A7199CAA6ACCE963CE4653FB` |
 | [v0.2.18.md](../releases/v0.2.18.md) | 2026-09-24 | `95FB19D613ED0C192E9266735AEBFFEA0C43F8FF4956A99BD58D8BA37720F39E` |
 | [v0.2.19.md](../releases/v0.2.19.md) | 2026-09-24 | `6AF96F7A1483ABBA46BE83AF7F057B884E65960B1F3C0031956EEF1F1584B3E7` |
+| [v0.2.20.md](../releases/v0.2.20.md) | 2026-09-24 | `3221DB9F392CC7781D1AADDF6146A5DE330E5FF6768DF27A4DC1F3C31F8768A2` |
+| [v0.2.23.md](../releases/v0.2.23.md) | 2026-09-24 | `7E50D5CD12B90D2370FD36AD6452A08BC60DFF1EF6AE357CBDF811B62D830A23` |
+| [v0.2.24.md](../releases/v0.2.24.md) | 2026-09-24 | `0AD3F636D61D33815ADC55839810086AB3A2126FB6010CAE44615EE94BE7DE8F` |
+| [v0.2.25.md](../releases/v0.2.25.md) | 2026-09-27 | `C6EE62B0269BBBB387F5D86343A6D259F52714FDF2500ADA9B3DB71F07861150` |
+
+The original source-note hashes for 0.2.21 and 0.2.22 were not available in this note-hash audit. Their public notes and exact package identities remain preserved in the archive; no missing note hash is inferred from a binary hash.
 
 The public pages summarize the relevant changes and data-preservation notes. They intentionally do not copy every implementation detail or make historical setup/model names into current promises. Later release records may supersede earlier workflows.
 

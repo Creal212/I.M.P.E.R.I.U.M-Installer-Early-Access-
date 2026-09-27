@@ -1,10 +1,10 @@
-# Latest installer and verification
+# Latest installer and verification — 0.2.25
 
-[**Download 0.2.24 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.24/I.M.P.E.R.I.U.M_0.2.24_x64-setup.exe) · [Changes](../releases/v0.2.24.md) · [Historical installers](INSTALLER_ARCHIVE.md)
+[**Download 0.2.25 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.25/I.M.P.E.R.I.U.M_0.2.25_x64-setup.exe) · [Changes](../releases/v0.2.25.md) · [Historical installers](INSTALLER_ARCHIVE.md). Use the versioned asset and compare its complete checksum.
 
-Only attached official release assets are app packages. This installer is unsigned and uses manual updates. Repository/source archives are not the application.
+Only attached official release assets are app packages. This release is unsigned and uses manual installation and updates. Repository/source archives are not the application.
 
-All four native models are optional downloads in **Settings → Agent 589**. Download files, then select Start. No automatic model download/start occurs. The first Start may download the pinned CPU engine. The installer retains only the small licensed Windows dependency and notices. WebView2 may need internet if missing; native inference runs offline after preparation.
+All four native models are optional downloads in **Settings → Agent 589**. Download files, then select Start. This installer bundles no model and does not initiate a new model download; existing model setup and startup preferences remain in effect. The first Start may download the pinned CPU engine. The installer retains only the small licensed Windows dependency and notices. WebView2 may need internet if missing; native inference runs offline after preparation.
 
 ## Mini preconfigured preview
 
@@ -16,7 +16,7 @@ All four native models are optional downloads in **Settings → Agent 589**. Dow
 - Checks: original app/resource identities, pinned model/runtime inventory, all 60 archive files/lengths and archive CRC.
 - **Not tested:** launcher execution, actual app/model startup, clean-device behavior or moving the package.
 
-This is an earlier **0.2.15 preconfigured preview**, not a qualified portable edition or a 0.2.18 build. It contains the exact installer-extracted 0.2.15 app and a new `Data` folder seeded only with pinned Mini model/runtime files and incomplete setup preferences. It does not contain the 0.2.18 themes, interface or response improvements. No user account, conversation, project or developer GPU environment was copied.
+This is a historical **0.2.15 preconfigured preview**, not a qualified portable edition or a current app build. It contains the exact installer-extracted 0.2.15 app and a new `Data` folder seeded only with pinned Mini model/runtime files and incomplete setup preferences. It does not contain later themes, interface or response improvements. No user account, conversation, project or developer GPU environment was copied.
 
 Extract the complete archive to a new writable folder. Windows x64, **Microsoft Edge WebView2** and Windows Script Host are prerequisites; WebView2 is not bundled in this ZIP. Do not disable Windows security settings if the launcher is restricted. Read the included README and [preview license](PREVIEW_LICENSE.md).
 
@@ -28,13 +28,13 @@ Stop the model and close the app before moving/backing up the folder. Main paths
 
 | Field | Verified value |
 | --- | --- |
-| Filename | `I.M.P.E.R.I.U.M_0.2.24_x64-setup.exe` |
-| Size | 34,219,957 bytes |
-| SHA-256 | `783281CBB4EA1D742D2FE5E73FE14782CD7512266D07D7C596E5822F770F7EB0` |
-| App version | 0.2.24.0 |
+| Filename | `I.M.P.E.R.I.U.M_0.2.25_x64-setup.exe` |
+| Size | 34,921,188 |
+| SHA-256 | `964135793EDE09BAA4AD4CF2644B629CA3F468F8F22C477A150D9CF95B604359` |
+| App version | 0.2.25.0 |
 | Installer / app Authenticode | NotSigned / NotSigned |
 
-The exact extracted inventory passed checks. [Read the scoped evidence](RELEASE_0_2_24_STATUS.md). No new portable version is implied.
+Exact extraction, embedded resource inventory, version and public-download identity checks passed for 0.2.25. [Read the scoped evidence](RELEASE_0_2_25_STATUS.md). No new portable version is implied.
 
 Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe"` and compare the complete hash. Save work, close the app and keep backups. Keep Windows protection enabled. Real-data upgrade and separate-device installation remain unverified here.
 

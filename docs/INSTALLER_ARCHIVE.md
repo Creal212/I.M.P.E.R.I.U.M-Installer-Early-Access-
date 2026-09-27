@@ -2,6 +2,16 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.24 — I.M.P.E.R.I.U.M_0.2.24_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.24/I.M.P.E.R.I.U.M_0.2.24_x64-setup.exe) · [Original notes](../releases/v0.2.24.md) · [Original verification](RELEASE_0_2_24_STATUS.md)
+
+34,219,957 bytes · unsigned
+
+SHA-256: `783281CBB4EA1D742D2FE5E73FE14782CD7512266D07D7C596E5822F770F7EB0`
+
+Workspace Agent activity bottom-panel scrolling. Focused UI checks and remote installer identity were verified for this release. Separate-device installation and model quality retain their original limits. This package stays unchanged when later installers are published.
+
 ## 0.2.23 - I.M.P.E.R.I.U.M_0.2.23_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.23/I.M.P.E.R.I.U.M_0.2.23_x64-setup.exe) · [Original notes](../releases/v0.2.23.md) · [Original verification](../docs/RELEASE_0_2_23_STATUS.md)

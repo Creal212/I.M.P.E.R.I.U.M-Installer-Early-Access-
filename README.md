@@ -8,17 +8,21 @@
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
-## Latest installer — 0.2.22
+## Latest installer — 0.2.25
 
-[**Download the latest Windows x64 installer · 0.2.22**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.22/I.M.P.E.R.I.U.M_0.2.22_x64-setup.exe) · [What changed](releases/v0.2.22.md) · [Setup and checksum](docs/DOWNLOADS.md)
+[**Download the latest Windows x64 installer · 0.2.25**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.25/I.M.P.E.R.I.U.M_0.2.25_x64-setup.exe) [What changed](releases/v0.2.25.md) · [Setup and checksum](docs/DOWNLOADS.md)
 
-**New here? Start with the installer above.** Earlier downloads live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) also includes notes-only versions with no installer.
+**New here? Start with the installer above.** Earlier downloads, including 0.2.24, live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) distinguishes available downloads from work awaiting publication.
 
 [**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
-**Early access:** the 0.2.22 installer is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.22) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_22_STATUS.md). The older Mini preview remains version 0.2.15. GitHub's repository/source archives are not the application.
+**Early access:** 0.2.25 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.25) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_25_STATUS.md). The older Mini preview remains version 0.2.15. GitHub's repository/source archives are not the application.
 
-All four native models are optional downloads in Settings → Agent 589; nothing downloads or starts automatically. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Native inference can run offline once prepared; optional model downloads and connected features still need internet.
+### A more personal workspace
+
+Choose among eight coordinated palettes, including six new collections: Verdigris, Midnight Atelier, Garnet, Travertine, Porcelain and Tidal. Animated Home artwork respects reduced-motion preferences. Agent 589 can wander, perch on panels and offer local guidance; use **Settings → Agent 589 guide** to change its size, keep it quiet or turn it off. In **About → Meet the developer**, the guide has a rotating set of playful portrait asides. These are prewritten character lines, not cloud requests or product-performance claims.
+
+All four native models are optional downloads in Settings → Agent 589. This installer bundles no model and does not initiate a new model download; existing model setup and startup preferences remain in effect. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Native inference can run offline once prepared; optional model downloads and connected features still need internet.
 
 I.M.P.E.R.I.U.M is a Windows desktop environment for working with AI on software projects, documents and plans. It keeps your original project, **Main**, separate from the **Clone** used for project work. Inspect changes, keep the work you want, create a named patch, and review what reaches Main.
 
@@ -46,8 +50,9 @@ Main's saved location supports patching; it is not a permanent network connectio
 
 | Package | Status |
 | --- | --- |
-| **0.2.22 Windows x64 installer** | Latest early-access installer; imported agents can always create and edit inside the clone. Main stays blocked. Unsigned; manual updates. [Notes](releases/v0.2.22.md) |
-| **Earlier 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include the 0.2.22 changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
+| **0.2.25 Windows x64 installer** | Published unsigned early-access installer. Six new palettes, animated Home, Agent 589 companion and restored narrow desktop command grants. Unsigned manual early access. [Notes](releases/v0.2.25.md) |
+| **Historical 0.2.24 installer** | [Original installer and checksum](docs/INSTALLER_ARCHIVE.md). Its original agent-activity scrolling changes and verification remain unchanged. |
+| **Historical 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include later installer changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
 | **Portable Agent 589** | Planned; no qualified package or download. |
 | **Portable Core** | Planned; no qualified package or download. |
 
