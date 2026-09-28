@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.27",
+  "latestBuiltVersion": "0.2.28",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.28",
+      "recordDate": "2026-09-28",
+      "title": "Keep control of an active task",
+      "status": "published",
+      "buildState": "built",
+      "notes": "releases/v0.2.28.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.28_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.28/I.M.P.E.R.I.U.M_0.2.28_x64-setup.exe",
+          "bytes": 34997417,
+          "sha256": "0ad3b4b6492be3da41aa9fecd16701ae3224e464d472c98c34a5a29ef1b78b06",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_28_STATUS.md",
+            "summary": "Exact local package and public-download identities verified. Distinct task controls, retained steering context, prompt-budget fixes and mandatory release regressions. Read the versioned evidence for final counts and limits. No new model-quality, live-provider or fresh-device qualification; unsigned manual early access."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.27",
       "recordDate": "2026-09-28",

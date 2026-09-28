@@ -1,6 +1,10 @@
 # Release status
 
-## Latest installer — 0.2.27
+## Latest installer — 0.2.28
+
+**Published unsigned early access.** Clearer task controls, retained steering context and more reliable conversational turns across Workspace, Studio and Blueprint. [Exact evidence and limits](RELEASE_0_2_28_STATUS.md) · [Download](DOWNLOADS.md). Source checks use model-free fixtures; they do not establish fresh-device behavior or universal model quality.
+
+## Historical installer — 0.2.27
 
 **Published unsigned early access.** Repairable clone registration, current-RAM startup guidance, shared project/artifact image inspection and release regression protection. [Exact evidence and limits](RELEASE_0_2_27_STATUS.md) · [Download](DOWNLOADS.md). Source checks use model-free fixtures; they do not establish fresh-device behavior or universal model quality.
 

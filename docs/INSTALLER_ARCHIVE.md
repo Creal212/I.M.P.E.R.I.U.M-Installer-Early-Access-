@@ -2,6 +2,14 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.27 — I.M.P.E.R.I.U.M_0.2.27_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.27/I.M.P.E.R.I.U.M_0.2.27_x64-setup.exe) · [Original notes](../releases/v0.2.27.md) · [Original verification](RELEASE_0_2_27_STATUS.md)
+
+34,981,184 bytes · unsigned
+
+Original clone recovery, current-RAM admission and shared image-inspection updates. Package, notes and original verification remain unchanged.
+
 ## 0.2.26 — I.M.P.E.R.I.U.M_0.2.26_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.26/I.M.P.E.R.I.U.M_0.2.26_x64-setup.exe) · [Original notes](../releases/v0.2.26.md) · [Original verification](RELEASE_0_2_26_STATUS.md)

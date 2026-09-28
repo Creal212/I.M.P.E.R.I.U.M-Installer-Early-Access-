@@ -2,19 +2,20 @@
 
 Dates reproduce recorded release notes, not inferred public upload dates. Only attached official release assets are app packages.
 
-## Latest published installer — 0.2.27
+## Latest published installer — 0.2.28
 
-[0.2.27 — Workspace recovery and clearer local checks](releases/v0.2.27.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
+[0.2.28 — Keep control of an active task](releases/v0.2.28.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
 
-Repairable clone registration, current-RAM startup guidance, shared project/artifact image inspection and release regression protection. See the scoped verification and limits in the release notes.
+Clearer task controls, retained steering context and more reliable conversational turns across Workspace, Studio and Blueprint. See the scoped verification and limits in the release notes.
 
 ## Historical installers
 
-[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.26 installer is now historical and retains its original identity.
+[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.27 installer is now historical and retains its original identity.
 
 | Version | Recorded date | Focus | State |
 | --- | --- | --- | --- |
-| [0.2.27](releases/v0.2.27.md) | 2026-09-28 | Workspace recovery and clearer local checks | Latest installer |
+| [0.2.28](releases/v0.2.28.md) | 2026-09-28 | Keep control of an active task | Latest installer |
+| [0.2.27](releases/v0.2.27.md) | 2026-09-28 | Workspace recovery and clearer local checks | Historical installer |
 | [0.2.26](releases/v0.2.26.md) | 2026-09-27 | Room to build, connected media and a grounded guide | Historical installer |
 | [0.2.25](releases/v0.2.25.md) | 2026-09-27 | The Atelier and Agent 589 update | Historical installer |
 | [0.2.24](releases/v0.2.24.md) | 2026-09-24 | Agent activity scrolling | Historical installer |

@@ -1,6 +1,6 @@
-# Latest installer and verification — 0.2.27
+# Latest installer and verification — 0.2.28
 
-[**Download 0.2.27 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.27/I.M.P.E.R.I.U.M_0.2.27_x64-setup.exe) · [Changes](../releases/v0.2.27.md) · [Historical installers](INSTALLER_ARCHIVE.md). Use the versioned asset and compare its complete checksum.
+[**Download 0.2.28 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.28/I.M.P.E.R.I.U.M_0.2.28_x64-setup.exe) · [Changes](../releases/v0.2.28.md) · [Historical installers](INSTALLER_ARCHIVE.md). Use the versioned asset and compare its complete checksum.
 
 Only attached official release assets are app packages. This release is unsigned and uses manual installation and updates. Repository/source archives are not the application.
 
@@ -28,13 +28,13 @@ Stop the model and close the app before moving/backing up the folder. Main paths
 
 | Field | Verified value |
 | --- | --- |
-| Filename | `I.M.P.E.R.I.U.M_0.2.27_x64-setup.exe` |
-| Size | 34,981,184 |
-| SHA-256 | `580381658006FE34C710D50C82784ED15D7FC08D53C9DB87774F212CFFA86439` |
-| App version | 0.2.27.0 |
+| Filename | `I.M.P.E.R.I.U.M_0.2.28_x64-setup.exe` |
+| Size | 34,997,417 |
+| SHA-256 | `0AD3B4B6492BE3DA41AA9FECD16701AE3224E464D472C98C34A5A29EF1B78B06` |
+| App version | 0.2.28.0 |
 | Installer / app Authenticode | NotSigned / NotSigned |
 
-Exact extraction, embedded resource inventory, version and public-download identity checks passed for 0.2.27. [Read the scoped evidence](RELEASE_0_2_27_STATUS.md). No new portable version is implied.
+Exact extraction, embedded resource inventory, version and public-download identity checks passed for 0.2.28. [Read the scoped evidence](RELEASE_0_2_28_STATUS.md). No new portable version is implied.
 
 Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe"` and compare the complete hash. Save work, close the app and keep backups. Keep Windows protection enabled. Real-data upgrade and separate-device installation remain unverified here.
 
