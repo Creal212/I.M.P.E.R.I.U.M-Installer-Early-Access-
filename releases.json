@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.26",
+  "latestBuiltVersion": "0.2.27",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.27",
+      "recordDate": "2026-09-28",
+      "title": "Workspace recovery and clearer local checks",
+      "status": "published",
+      "buildState": "built",
+      "notes": "releases/v0.2.27.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.27_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.27/I.M.P.E.R.I.U.M_0.2.27_x64-setup.exe",
+          "bytes": 34981184,
+          "sha256": "580381658006fe34c710d50c82784ed15d7fc08d53c9db87774f212cffa86439",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_27_STATUS.md",
+            "summary": "Exact local package and public-download identities verified. Current-RAM admission, clone recovery, retained artifact inspection and mandatory release regressions. Read the versioned evidence for final counts and limits. No new model-quality, live-provider or fresh-device qualification; unsigned manual early access."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.26",
       "recordDate": "2026-09-27",

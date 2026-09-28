@@ -1,6 +1,10 @@
 # Release status
 
-## Latest installer — 0.2.26
+## Latest installer — 0.2.27
+
+**Published unsigned early access.** Repairable clone registration, current-RAM startup guidance, shared project/artifact image inspection and release regression protection. [Exact evidence and limits](RELEASE_0_2_27_STATUS.md) · [Download](DOWNLOADS.md). Source checks use model-free fixtures; they do not establish fresh-device behavior or universal model quality.
+
+## Historical installer — 0.2.26
 
 **Published unsigned early access.** In-zone build tools, supported selected-provider cloud media, independent Studio session policy and improved guide surfaces. [Exact evidence and limits](RELEASE_0_2_26_STATUS.md) · [Download](DOWNLOADS.md). One real Codex image and one real Astra file task passed; API/video protocol fixtures do not certify every account. Fresh-device and real-data upgrades remain untested.
 

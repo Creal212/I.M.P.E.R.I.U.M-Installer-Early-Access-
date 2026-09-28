@@ -8,15 +8,19 @@
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
-## Latest installer — 0.2.26
+## Latest installer — 0.2.27
 
-[**Download the latest Windows x64 installer · 0.2.26**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.26/I.M.P.E.R.I.U.M_0.2.26_x64-setup.exe) [What changed](releases/v0.2.26.md) · [Setup and checksum](docs/DOWNLOADS.md)
+[**Download the latest Windows x64 installer · 0.2.27**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.27/I.M.P.E.R.I.U.M_0.2.27_x64-setup.exe) [What changed](releases/v0.2.27.md) · [Setup and checksum](docs/DOWNLOADS.md)
 
-**New here? Start with the installer above.** Earlier downloads, including 0.2.25, live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) distinguishes available downloads from work awaiting publication.
+**New here? Start with the installer above.** Earlier downloads, including 0.2.26, live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) distinguishes available downloads from work awaiting publication.
 
 [**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
-**Early access:** 0.2.26 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.26) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_26_STATUS.md). The older Mini preview remains version 0.2.15. GitHub's repository/source archives are not the application.
+**Early access:** 0.2.27 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.27) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_27_STATUS.md). The older Mini preview remains version 0.2.15. GitHub's repository/source archives are not the application.
+
+### Keep your work moving
+
+Repairable clone registration, current-RAM startup guidance, shared project/artifact image inspection and release regression protection. Check workspace explains a clone problem before offering explicit recovery. Native Start uses currently available RAM, and retained generated images show their automatic inspection status. Read the release notes for the exact scope and limits.
 
 ### Build in your assigned environment
 
@@ -54,8 +58,8 @@ Main's saved location supports patching; it is not a permanent network connectio
 
 | Package | Status |
 | --- | --- |
-| **0.2.26 Windows x64 installer** | Published unsigned early-access installer. Restored in-zone building, supported connected media, independent Studio policy and better guide surfaces. Unsigned manual early access. [Notes](releases/v0.2.26.md) |
-| **Historical 0.2.25 installer** | [Original installer and checksum](docs/INSTALLER_ARCHIVE.md). Its original themes, companion features and verification remain unchanged. |
+| **0.2.27 Windows x64 installer** | Published unsigned early-access installer. Repairable clone registration, current-RAM startup guidance, shared project/artifact image inspection and release regression protection. Unsigned manual early access. [Notes](releases/v0.2.27.md) |
+| **Historical 0.2.26 installer** | [Original installer and checksum](docs/INSTALLER_ARCHIVE.md). Its original clone/media changes and verification remain unchanged. |
 | **Historical 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include later installer changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
 | **Portable Agent 589** | Planned; no qualified package or download. |
 | **Portable Core** | Planned; no qualified package or download. |

@@ -2,6 +2,16 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.26 — I.M.P.E.R.I.U.M_0.2.26_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.26/I.M.P.E.R.I.U.M_0.2.26_x64-setup.exe) · [Original notes](../releases/v0.2.26.md) · [Original verification](RELEASE_0_2_26_STATUS.md)
+
+34,949,533 bytes · unsigned
+
+SHA-256: `E5799DA5ED71DACDA4DAECA3948931A2A7E931714822A235F44C69217813F467`
+
+Original clone, connected-media and guide updates. Package, notes and original verification remain unchanged.
+
 ## 0.2.25 — I.M.P.E.R.I.U.M_0.2.25_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.25/I.M.P.E.R.I.U.M_0.2.25_x64-setup.exe) · [Original notes](../releases/v0.2.25.md) · [Original verification](RELEASE_0_2_25_STATUS.md)
