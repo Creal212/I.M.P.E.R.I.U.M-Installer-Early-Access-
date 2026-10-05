@@ -4,19 +4,19 @@
 
 <p align="center">Your ideas. Your models. Your final say.</p>
 
-<p align="center"><a href="https://www.imperium589.world/">Explore the website</a> Â· <a href="https://discord.gg/WZCxhjPwE">Join the Discord community</a></p>
+<p align="center"><a href="https://www.imperium589.world/">Explore the website</a> · <a href="https://discord.gg/WZCxhjPwE">Join the Discord community</a></p>
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
-## Latest installer â€” 0.2.29
+## Latest installer — 0.2.29
 
-[**Download the latest Windows x64 installer Â· 0.2.29**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.29/I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe) [What changed](releases/v0.2.29.md) Â· [Setup and checksum](docs/DOWNLOADS.md)
+[**Download the latest Windows x64 installer · 0.2.29**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.29/I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe) [What changed](releases/v0.2.29.md) · [Setup and checksum](docs/DOWNLOADS.md)
 
 **New here? Start with the installer above.** Earlier downloads, including 0.2.28, live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) distinguishes available downloads from work awaiting publication.
 
-[**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) â€” share ideas, report ordinary bugs and get feedback on what you are building.
+[**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
-**Early access:** 0.2.29 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.29) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_28_STATUS.md). The older Mini preview remains version 0.2.15. GitHub's repository/source archives are not the application.
+**Early access:** 0.2.29 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.29) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_29_STATUS.md). The separate legacy Mini branded refresh is version 0.2.15-axiom.1; the original 0.2.15 preview remains unchanged. GitHub's repository/source archives are not the application.
 
 ### A shared Axiom identity
 
@@ -28,9 +28,9 @@ Agents can create and edit permitted files across the assigned Clone; context ra
 
 ### A more personal workspace
 
-Choose among eight coordinated palettes, including six new collections: Verdigris, Midnight Atelier, Garnet, Travertine, Porcelain and Tidal. Animated Home artwork respects reduced-motion preferences. Agent 589 can wander, perch on panels and offer local guidance; use **Settings â†’ Agent 589 guide** to change its size, keep it quiet or turn it off. In **About us**, the guide has a rotating set of playful portrait asides. These are prewritten character lines, not cloud requests or product-performance claims.
+Choose among eight coordinated palettes, including six new collections: Verdigris, Midnight Atelier, Garnet, Travertine, Porcelain and Tidal. Animated Home artwork respects reduced-motion preferences. Agent 589 can wander, perch on panels and offer local guidance; use **Settings → Agent 589 guide** to change its size, keep it quiet or turn it off. In **About us**, the guide has a rotating set of playful portrait asides. These are prewritten character lines, not cloud requests or product-performance claims.
 
-All four native models are optional downloads in Settings â†’ Agent 589. This installer bundles no model and does not initiate a new model download; existing model setup and startup preferences remain in effect. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Native inference can run offline once prepared; optional model downloads and connected features still need internet.
+All four native models are optional downloads in Settings → Agent 589. This installer bundles no model and does not initiate a new model download; existing model setup and startup preferences remain in effect. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Native inference can run offline once prepared; optional model downloads and connected features still need internet.
 
 I.M.P.E.R.I.U.M is a Windows desktop environment for working with AI on software projects, documents and plans. It keeps your original project, **Main**, separate from the **Clone** used for project work. Inspect changes, keep the work you want, create a named patch, and review what reaches Main.
 
@@ -60,6 +60,7 @@ Main's saved location supports patching; it is not a permanent network connectio
 | --- | --- |
 | **0.2.29 Windows x64 installer** | Published unsigned early-access installer. Axiom branding, preserved helmet silhouette, migrated appearance preferences and offline publisher policies. Unsigned manual early access. [Notes](releases/v0.2.29.md) |
 | **Historical 0.2.27 installer** | [Original installer and checksum](docs/INSTALLER_ARCHIVE.md). Its original recovery, native-memory and image-inspection changes and verification remain unchanged. |
+| **Legacy Mini 0.2.15-axiom.1 branded refresh** | [Separate unsigned manual preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15-axiom.1/IMPERIUM-0.2.15-axiom.1-Mini-preconfigured-preview-win-x64.zip). Retains the legacy model/runtime/setup and launcher bytes. New Axiom branding and offline policies; app/model startup, clean-device behavior and relocation remain untested. [Evidence](docs/RELEASE_0_2_15_AXIOM_1_STATUS.md) |
 | **Historical 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include later installer changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
 | **Portable Agent 589** | Planned; no qualified package or download. |
 | **Portable Core** | Planned; no qualified package or download. |
@@ -80,4 +81,4 @@ Published by **Axiom Risk Group LLC**, based in Minnesota. Contact [info@axiomri
 
 Keep passwords, API keys, device codes, private project files and unredacted logs out of community channels. Report security vulnerabilities through our [private security reporting route](docs/SECURITY.md), rather than posting exploitable details publicly. Email remains available through [Support](docs/SUPPORT.md); joining Discord is optional.
 
-[Version history](CHANGELOG.md) Â· [Privacy](docs/PRIVACY.md) Â· [Use guidance](docs/TERMS_OF_USE.md) Â· [Software license](docs/EULA.md) Â· [Third-party notices](docs/THIRD_PARTY_NOTICES.md) Â· [Security reports](docs/SECURITY.md) Â· [Release provenance](docs/RELEASE_PROVENANCE.md)
+[Version history](CHANGELOG.md) · [Privacy](docs/PRIVACY.md) · [Use guidance](docs/TERMS_OF_USE.md) · [Software license](docs/EULA.md) · [Third-party notices](docs/THIRD_PARTY_NOTICES.md) · [Security reports](docs/SECURITY.md) · [Release provenance](docs/RELEASE_PROVENANCE.md)

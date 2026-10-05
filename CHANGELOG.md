@@ -2,9 +2,9 @@
 
 Dates reproduce recorded release notes, not inferred public upload dates. Only attached official release assets are app packages.
 
-## Latest published installer â€” 0.2.28
+## Latest published installer — 0.2.29
 
-[0.2.28 â€” Keep control of an active task](releases/v0.2.28.md) Â· **Published unsigned early-access installer** Â· [Downloads](docs/DOWNLOADS.md)
+[0.2.29 — Axiom branding and offline publisher policies](releases/v0.2.29.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
 
 Animated theme-aware Axiom branding, the preserved helmet silhouette, migrated logo preferences and bundled offline policy documents. Existing supervised workflows and data remain unchanged. See the scoped verification and limits in the release notes.
 
@@ -28,6 +28,8 @@ Animated theme-aware Axiom branding, the preserved helmet silhouette, migrated l
 | [0.2.18](releases/v0.2.18.md) | 2026-09-24 | Guided builds and native setup | Historical installer |
 | [0.2.17](releases/v0.2.17.md) | 2026-09-23 | Obsidian and Parchment | Historical installer |
 | [0.2.15](releases/v0.2.15.md) | 2026-09-13 | First-use guidance and account setup | Historical installer and separate Mini preview ZIP |
+
+The separate [0.2.15-axiom.1 legacy Mini branded refresh](releases/v0.2.15-axiom.1.md) has its own unsigned prerelease, exact archive identity and scoped [verification](docs/RELEASE_0_2_15_AXIOM_1_STATUS.md). It retains the original Data/model/runtime/setup and launcher, and does not replace the current installer or claim new model-quality/startup qualification.
 
 The **0.2.15 Mini preconfigured preview** is an old app build, not a current portable edition. It retains its original archive identity and untested launcher/startup/relocation limits. See [Downloads](docs/DOWNLOADS.md#mini-preconfigured-preview).
 

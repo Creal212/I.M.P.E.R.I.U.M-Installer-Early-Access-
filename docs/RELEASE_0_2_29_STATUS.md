@@ -8,7 +8,7 @@ Recorded **2026-10-05**. **Published after exact local package and public-downlo
 | Bytes | 34,391,514 |
 | SHA-256 | `93AD17D6CC81D127B1EBF36FAFA46F80DD90A3D32155010E4161D96D7ABAC094` |
 | App version | 0.2.29.0 |
-| Publisher metadata | Axiom Risk Group LLC |
+| App and installation publisher metadata | Axiom Risk Group LLC |
 | Installer / app Authenticode | NotSigned / NotSigned |
 | Public download identity | Public asset byte count and SHA-256 match this exact installer |
 | Fresh physical-device installation / real-data upgrade | NOT EVALUATED |
@@ -28,4 +28,4 @@ Both installer and packaged application are unsigned. This is manual early acces
 
 The original 0.2.28 installer and 0.2.15 Mini preview remain available with unchanged identities. A separately versioned Mini branding refresh, if published, has its own artifact and verification record.
 
-[Release notes](../releases/v0.2.29.md) Â· [Downloads](DOWNLOADS.md) Â· [Historical installers](INSTALLER_ARCHIVE.md)
+[Release notes](../releases/v0.2.29.md) · [Downloads](DOWNLOADS.md) · [Historical installers](INSTALLER_ARCHIVE.md)

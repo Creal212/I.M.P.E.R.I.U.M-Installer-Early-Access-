@@ -1,6 +1,6 @@
 # Legacy Mini 0.2.15-axiom.1 verification
 
-Recorded **2026-10-05**. **Prepared: exact local archive verification passed; public-download identity is pending.**
+Recorded **2026-10-05**. **Published after exact local archive and public-download identity verification.**
 
 | Field | Evidence |
 | --- | --- |
@@ -12,7 +12,7 @@ Recorded **2026-10-05**. **Prepared: exact local archive verification passed; pu
 | Publisher metadata | Axiom Risk Group LLC |
 | Executable Authenticode | NotSigned |
 | Source | `db10f6c8e9411a6d513efcca69fe9fc4ac77ce6a`, legacy branding branch |
-| Public download identity | Pending publication |
+| Public download identity | Exact public ZIP bytes and SHA-256 match the reviewed archive |
 
 The native release build, TypeScript/Vite UI build and legacy release verification passed. Verification covers 132 interface assets and 14 resource hashes. Focused checks passed 28 frontend tests, 21 native appearance-settings tests and 22 distribution/integrity tests; these have overlapping scope and are not a total all-features certification. Eight actual-component browser scenarios covered Ember Light/Dark at 480 and 1440 pixels, About us and Appearance, representative helmet/icon swatches, shared orbital motion, reduced motion, policy disclosures and contained layouts. Native calls in that browser fixture were mocked.
 
