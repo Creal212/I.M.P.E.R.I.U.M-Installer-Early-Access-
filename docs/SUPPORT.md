@@ -1,6 +1,6 @@
 # Support
 
-Contact **[Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com)**. Publisher: Axiom Risk, based in Minnesota.
+Contact **[info@axiomriskgroup.com](mailto:info@axiomriskgroup.com)**. Publisher: Axiom Risk Group LLC, based in Minnesota.
 
 For community questions, ordinary bugs, ideas and project feedback, [join the Imperium Discord](https://discord.gg/WZCxhjPwE). Participation is optional; email is still available. Community posts and attachments may be visible to other members, so share only material you are authorized to disclose.
 

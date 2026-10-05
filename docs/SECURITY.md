@@ -1,6 +1,6 @@
 # Report a security issue
 
-Email **[Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com)** with the subject **I.M.P.E.R.I.U.M security report**.
+Email **[info@axiomriskgroup.com](mailto:info@axiomriskgroup.com)** with the subject **I.M.P.E.R.I.U.M security report**.
 
 Include the affected version/platform, concise impact and minimal reproduction using harmless sample data. Identify the relevant boundary: Clone/Main, provider, artifact, patch, scan or installer.
 

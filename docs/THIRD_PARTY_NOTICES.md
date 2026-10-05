@@ -35,7 +35,7 @@ The 0.2.18 installer includes the Granite Lite weights and CPU engine, plus the 
 | CPU engine | llama.cpp b10809 | Preserve its license and dependency notices. |
 | App-local Microsoft C++ runtime | 14.51.36247 | Use under applicable Microsoft redistribution terms; publisher entitlement has been confirmed. |
 
-Axiom Risk confirmed the required Visual Studio/Build Tools redistribution license. This records the publisher's confirmation, not independent legal certification. Microsoft's guidance explains that redistribution rights and permitted files are governed by the applicable license: [Redistributing Visual C++ files](https://learn.microsoft.com/en-us/cpp/windows/redistributing-visual-cpp-files?view=msvc-170).
+Axiom Risk Group LLC confirmed the required Visual Studio/Build Tools redistribution license. This records the publisher's confirmation, not independent legal certification. Microsoft's guidance explains that redistribution rights and permitted files are governed by the applicable license: [Redistributing Visual C++ files](https://learn.microsoft.com/en-us/cpp/windows/redistributing-visual-cpp-files?view=msvc-170).
 
 Other app dependencies, preview components, fonts, account helpers, optional engines and skills require their corresponding notices in the actual distribution. A documentation link does not satisfy every license requirement. Exact inventory review remains a release responsibility.
 
@@ -45,4 +45,4 @@ A model name or benchmark is not permission to redistribute every conversion. Re
 
 QA candidates are not distributed merely because they were researched. The restored baseline and explicit optional previews above are deliberate distribution choices with their limitations retained. Portable editions each need their own exact inventory, required notices and package/lifecycle validation; older preview ZIPs keep their original version. Third-party license rights remain intact regardless of the product's proprietary status.
 
-For notice or rights questions, contact [Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com).
+For notice or rights questions, contact [info@axiomriskgroup.com](mailto:info@axiomriskgroup.com).

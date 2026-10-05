@@ -2,9 +2,65 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.28",
+  "latestBuiltVersion": "0.2.29",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.29",
+      "recordDate": "2026-10-05",
+      "title": "Axiom branding and offline publisher policies",
+      "status": "prepared",
+      "buildState": "built",
+      "notes": "releases/v0.2.29.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.29/I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe",
+          "bytes": 34391514,
+          "sha256": "93ad17d6cc81d127b1ebf36fafa46f80dd90a3d32155010e4161d96d7abac094",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_29_STATUS.md",
+            "summary": "Exact package identity, extracted payload, source-bound release regressions and branded UI checks passed. Animated Axiom and preserved helmet silhouette, migrated logo preferences and four offline legal documents. No new model-quality, live-provider or fresh-device qualification; unsigned manual early access."
+          }
+        }
+      ]
+    },
+    {
+      "version": "0.2.15-axiom.1",
+      "recordDate": "2026-10-05",
+      "title": "Legacy Mini branded refresh",
+      "status": "prepared",
+      "buildState": "built",
+      "notes": "releases/v0.2.15-axiom.1.md",
+      "assets": [
+        {
+          "name": "IMPERIUM-0.2.15-axiom.1-Mini-preconfigured-preview-win-x64.zip",
+          "kind": "mini-preconfigured-preview",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15-axiom.1/IMPERIUM-0.2.15-axiom.1-Mini-preconfigured-preview-win-x64.zip",
+          "bytes": 1410851054,
+          "sha256": "a4688a78b43886d51ae07ca476052d05255d39da57b96912dde1215423864bf8",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-run",
+            "evidence": "docs/RELEASE_0_2_15_AXIOM_1_STATUS.md",
+            "summary": "Legacy 0.2.15 Mini branded refresh, separate from the current installer and its model catalog. Exact archive members and package identities verified; all original Data/model/runtime/setup and launcher bytes retained. App/model/launcher startup, clean-device behavior and relocation are not tested; unsigned manual preview."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.28",
       "recordDate": "2026-09-28",

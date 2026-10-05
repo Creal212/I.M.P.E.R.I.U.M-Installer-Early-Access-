@@ -1,12 +1,12 @@
 # Use guidance
 
-Revision: **22 September 2026**. Publisher: Axiom Risk, Minnesota. Contact [Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com).
+Revision: **22 September 2026**. Publisher: Axiom Risk Group LLC, Minnesota. Contact [info@axiomriskgroup.com](mailto:info@axiomriskgroup.com).
 
 The [software license](EULA.md) and terms supplied with a package govern that proprietary application. This page explains appropriate use and product limitations; it does not replace third-party terms or remove mandatory rights.
 
 ## Your work and responsibilities
 
-Use only projects, accounts, services and material you are authorized to use. Axiom Risk does not claim ownership of your prompts, projects or outputs merely because you use the app. Applicable law, input rights and model/provider terms may affect publication and distribution.
+Use only projects, accounts, services and material you are authorized to use. Axiom Risk Group LLC does not claim ownership of your prompts, projects or outputs merely because you use the app. Applicable law, input rights and model/provider terms may affect publication and distribution.
 
 Review consequential outputs and changes before applying them to Main. Keep independent backups. AI can omit requirements, fabricate facts or produce insecure/incorrect code. A claim of execution is not evidence; consult actual host records.
 

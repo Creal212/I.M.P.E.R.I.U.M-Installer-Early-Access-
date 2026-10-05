@@ -1,21 +1,24 @@
 # Software license
 
-The following is the publisher's source license text, revision **20 September 2026**. The license supplied with the particular package you obtained governs that package. This page does not claim that this later revision is the embedded license in the earlier 0.2.15 binary or retroactively amend an existing license.
+Publisher license revision **5 October 2026**, bundled with the 0.2.29 installer. The license supplied with the particular package you obtained governs that package. This page does not retroactively amend earlier releases. Third-party licenses and mandatory rights remain applicable.
 
-Portable package plans do not themselves establish availability. The official 0.2.15 Mini preconfigured preview has a narrow [preview-use addendum](PREVIEW_LICENSE.md) allowing that archive form; it does not amend existing installed-package terms. The repository is not an open-source release of the proprietary app; see [LICENSE](../LICENSE).
-
----
+```text
 I.M.P.E.R.I.U.M — END USER LICENSE AGREEMENT (EULA)
 
-Publisher: Axiom Risk
+Publisher: Axiom Risk Group LLC
 Based in Minnesota
-Privacy and support: Primepeace2003@gmail.com
-Revision: 2026-09-20
+Privacy and support: info@axiomriskgroup.com
+Company website: https://www.axiomriskgroup.com/
+Revision: 2026-10-05
 
 IMPORTANT: READ CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
 
+EARLY ACCESS: This release is unsigned. Use the official versioned download
+and verify its published SHA-256. A checksum identifies bytes; it is not a
+publisher signature. Manual updates replace the application, not your user data.
+
 1. License grant
-   Subject to this EULA, Axiom Risk (the publisher) grants you a non-exclusive,
+   Subject to this EULA, Axiom Risk Group LLC (the publisher) grants you a non-exclusive,
    non-transferable license to install and use the I.M.P.E.R.I.U.M desktop application
    ("Software") on devices you own or control, solely in binary form as provided
    by the official installer.
@@ -37,7 +40,7 @@ IMPORTANT: READ CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
        expressly permits despite this restriction;
    (c) remove or alter publisher notices, trademarks, or digital signatures;
    (d) publish or host "I.M.P.E.R.I.U.M" installers or updates that you did not obtain
-       from the publisher's official signed distribution channel.
+       from the publisher's official distribution channel.
 
 4. Updates
    Updates must come from the publisher's signed update channel or official
@@ -87,16 +90,18 @@ IMPORTANT: READ CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
    Optional providers, websites, models, engines, and skills have their own
    terms and privacy practices. Requests can transmit permitted task content
    to a selected service and can incur that service's charges. Availability,
-   capabilities, and subscription entitlements are not guaranteed by Axiom Risk.
+   capabilities, and subscription entitlements are not guaranteed by Axiom Risk Group LLC.
    Local models require suitable hardware; other running software can reduce
    available resources. Read Privacy & policies in Settings for data handling
    and AI guidance. Merely reading those notices does not grant new consent.
 
 11. Contact and mandatory rights
-   Axiom Risk is based in Minnesota. For privacy questions and support, contact
-   Primepeace2003@gmail.com. Do not include passwords, API keys, or unnecessary
+   Axiom Risk Group LLC is based in Minnesota. For privacy questions and support, contact
+   info@axiomriskgroup.com. Do not include passwords, API keys, or unnecessary
    sensitive files in your request. Nothing in these terms removes rights that
    applicable law protects. This document does not select an exclusive court
    or impose an arbitration term.
 
 For support and official downloads, use only channels identified by the publisher.
+
+```

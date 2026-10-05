@@ -1,13 +1,13 @@
 # Privacy notice
 
-Revision: **27 September 2026**
+Revision: **5 October 2026**
 
-Publisher: **Axiom Risk**, based in **Minnesota**  
-Contact: [Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com)
+Publisher: **Axiom Risk Group LLC**, based in **Minnesota**
+Contact: [info@axiomriskgroup.com](mailto:info@axiomriskgroup.com)
 
 ## Scope and versions
 
-This notice covers the desktop platform, its distribution repository and [product website](https://www.imperium589.world/), hosted on Vercel. Features and controls vary by release. Offline policies in Settings are included in the 0.2.17 build; this does not add that screen to the older 0.2.15 package, change a provider's practices or enable a setting on your behalf.
+This notice covers the desktop platform, its distribution repository and [product website](https://www.imperium589.world/), hosted on Vercel. Features and controls vary by release. Current releases include offline policies in Settings and the 0.2.29 installer also includes standalone readable documents in resources/legal; this does not add that screen to the older 0.2.15 package, change a provider's practices or enable a setting on your behalf.
 
 The local project workflow does not require a publisher-hosted cloud account. A local model runs on your computer. A cloud/API connection sends requests to the selected service; review the actual endpoint in Providers rather than trusting a display name.
 
@@ -29,7 +29,7 @@ Studio Chat does not inherit an unrelated project's offline setting: its separat
 
 Enabled web tools contact websites/services for the task. Model, runtime, skill and update downloads contact their hosts, which can receive ordinary connection information such as IP address and requested resource. Offline task use needs components already installed; it does not turn off Windows networking, other apps or separately initiated sign-in/download actions.
 
-The product website uses **Vercel** hosting. Hosting and delivery can involve request/connection data such as IP address, browser information, requested URL and technical logs for serving, securing and diagnosing the site. This notice does not state that hosting creates zero logs, or that Vercel's policy replaces Axiom Risk's responsibilities. See [Vercel's privacy notice](https://vercel.com/legal/privacy-notice).
+The product website uses **Vercel** hosting. Hosting and delivery can involve request/connection data such as IP address, browser information, requested URL and technical logs for serving, securing and diagnosing the site. This notice does not state that hosting creates zero logs, or that Vercel's policy replaces Axiom Risk Group LLC's responsibilities. See [Vercel's privacy notice](https://vercel.com/legal/privacy-notice).
 
 The website stores theme and guide preferences in your browser. Its guide matches questions against a local reference library, without sending questions to a model or server. Hardware selections stay on the page. The Downloads and Release journal pages retrieve this repository's public release catalog from `raw.githubusercontent.com`, omitting cookies and referrer information. GitHub receives ordinary connection information; those requests do not include guide questions, device selections or project data. A bundled catalog is available if the live request fails. No analytics or advertising script is included.
 
@@ -61,6 +61,6 @@ Choose providers carefully, limit attachments, review exclusions and available s
 
 Rights depend on location, applicable law and processing. Contact the address above for access, correction, deletion or other privacy requests, identifying the relevant interaction without unnecessary secrets. A provider may also need to handle requests about its own copy. Where an appeal applies, email **Privacy appeal** with the original request/decision and reason for review. You may complain to the relevant privacy authority.
 
-Axiom Risk's Minnesota location alone is not a claim that every statutory provision applies to every interaction. Minnesota's statutory rights and appeal provisions are available from the [Minnesota Legislature](https://www.revisor.mn.gov/statutes/cite/325M.13).
+Axiom Risk Group LLC's Minnesota location alone is not a claim that every statutory provision applies to every interaction. Minnesota's statutory rights and appeal provisions are available from the [Minnesota Legislature](https://www.revisor.mn.gov/statutes/cite/325M.13).
 
 Changes to data use require an appropriate explanation and any legally required choice. Updating this text alone does not authorize a new use. Privacy promises must reflect actual practices, consistent with [FTC guidance](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/01/ai-companies-uphold-your-privacy-confidentiality-commitments). No blanket worldwide compliance guarantee is made.

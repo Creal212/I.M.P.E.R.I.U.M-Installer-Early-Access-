@@ -1,4 +1,4 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/seal-dark.png"><img src="assets/seal-light.png" width="84" height="84" alt="I.M.P.E.R.I.U.M seal"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/axiom-dark.png"><img src="assets/axiom-light.png" width="84" height="84" alt="Axiom mark"></picture></p>
 
 <h1 align="center">I.M.P.E.R.I.U.M</h1>
 
@@ -28,7 +28,7 @@ Agents can create and edit permitted files across the assigned Clone; context ra
 
 ### A more personal workspace
 
-Choose among eight coordinated palettes, including six new collections: Verdigris, Midnight Atelier, Garnet, Travertine, Porcelain and Tidal. Animated Home artwork respects reduced-motion preferences. Agent 589 can wander, perch on panels and offer local guidance; use **Settings → Agent 589 guide** to change its size, keep it quiet or turn it off. In **About → Meet the developer**, the guide has a rotating set of playful portrait asides. These are prewritten character lines, not cloud requests or product-performance claims.
+Choose among eight coordinated palettes, including six new collections: Verdigris, Midnight Atelier, Garnet, Travertine, Porcelain and Tidal. Animated Home artwork respects reduced-motion preferences. Agent 589 can wander, perch on panels and offer local guidance; use **Settings → Agent 589 guide** to change its size, keep it quiet or turn it off. In **About us**, the guide has a rotating set of playful portrait asides. These are prewritten character lines, not cloud requests or product-performance claims.
 
 All four native models are optional downloads in Settings → Agent 589. This installer bundles no model and does not initiate a new model download; existing model setup and startup preferences remain in effect. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Native inference can run offline once prepared; optional model downloads and connected features still need internet.
 
@@ -72,7 +72,7 @@ Project-specific inspection, exclusions, saved states, reviewed patches, rollbac
 
 A scan pass describes its inspected scope, not a guarantee of safety. AI can produce incorrect code. Review important outputs and keep backups. Restored Granite Lite has known code/test limitations; Mini and regular remain manual previews, and Core has simulation-only evidence. Runtime readiness is not a coding-quality certificate.
 
-Published by **Axiom Risk**, based in Minnesota. Contact [Primepeace2003@gmail.com](mailto:Primepeace2003@gmail.com).
+Published by **Axiom Risk Group LLC**, based in Minnesota. Contact [info@axiomriskgroup.com](mailto:info@axiomriskgroup.com).
 
 ## Community
 
