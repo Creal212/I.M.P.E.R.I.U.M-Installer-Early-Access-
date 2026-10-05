@@ -1,10 +1,10 @@
-# Latest installer and verification — 0.2.28
+# Latest installer and verification â€” 0.2.29
 
-[**Download 0.2.28 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.28/I.M.P.E.R.I.U.M_0.2.28_x64-setup.exe) · [Changes](../releases/v0.2.28.md) · [Historical installers](INSTALLER_ARCHIVE.md). Use the versioned asset and compare its complete checksum.
+[**Download 0.2.29 Â· Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.29/I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe) Â· [Changes](../releases/v0.2.29.md) Â· [Historical installers](INSTALLER_ARCHIVE.md). Use the versioned asset and compare its complete checksum.
 
 Only attached official release assets are app packages. This release is unsigned and uses manual installation and updates. Repository/source archives are not the application.
 
-All four native models are optional downloads in **Settings → Agent 589**. Download files, then select Start. This installer bundles no model and does not initiate a new model download; existing model setup and startup preferences remain in effect. The first Start may download the pinned CPU engine. The installer retains only the small licensed Windows dependency and notices. WebView2 may need internet if missing; native inference runs offline after preparation.
+All four native models are optional downloads in **Settings â†’ Agent 589**. Download files, then select Start. This installer bundles no model and does not initiate a new model download; existing model setup and startup preferences remain in effect. The first Start may download the pinned CPU engine. The installer retains only the small licensed Windows dependency and notices. WebView2 may need internet if missing; native inference runs offline after preparation.
 
 ## Mini preconfigured preview
 
@@ -28,14 +28,14 @@ Stop the model and close the app before moving/backing up the folder. Main paths
 
 | Field | Verified value |
 | --- | --- |
-| Filename | `I.M.P.E.R.I.U.M_0.2.28_x64-setup.exe` |
-| Size | 34,997,417 |
-| SHA-256 | `0AD3B4B6492BE3DA41AA9FECD16701AE3224E464D472C98C34A5A29EF1B78B06` |
-| App version | 0.2.28.0 |
+| Filename | `I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe` |
+| Size | 34,391,514 |
+| SHA-256 | `93AD17D6CC81D127B1EBF36FAFA46F80DD90A3D32155010E4161D96D7ABAC094` |
+| App version | 0.2.29.0 |
 | Installer / app Authenticode | NotSigned / NotSigned |
 
-Exact extraction, embedded resource inventory, version and public-download identity checks passed for 0.2.28. [Read the scoped evidence](RELEASE_0_2_28_STATUS.md). No new portable version is implied.
+Exact extraction, embedded resource inventory, version and public-download identity checks passed for 0.2.29. [Read the scoped evidence](RELEASE_0_2_28_STATUS.md). No new portable version is implied.
 
 Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe"` and compare the complete hash. Save work, close the app and keep backups. Keep Windows protection enabled. Real-data upgrade and separate-device installation remain unverified here.
 
-[Getting started](GETTING_STARTED.md) · [Hardware](HARDWARE_AND_MODELS.md)
+[Getting started](GETTING_STARTED.md) Â· [Hardware](HARDWARE_AND_MODELS.md)

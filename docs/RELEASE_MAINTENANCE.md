@@ -2,7 +2,7 @@
 
 [`releases.json`](../releases.json) is the versioned, public catalog for the website and this distribution repository. Schema **1** records version notes, exact download identities, publication state and scoped evaluation. It contains no installer bytes, credentials, personal data or private machine paths.
 
-The catalog links all 19 recorded version pages. The current published installer is identified in [Downloads](DOWNLOADS.md); previous published files retain their original identities in [Historical installers](INSTALLER_ARCHIVE.md). The Mini preconfigured preview has a separate version and qualification. **0.2.16 remains a source-only milestone with no assets.** Regular Agent 589 and Core portable editions remain planned with no download URL or testing claim.
+The catalog links the recorded version pages. The current published installer is identified in [Downloads](DOWNLOADS.md); previous published files retain their original identities in [Historical installers](INSTALLER_ARCHIVE.md). The Mini preconfigured preview has a separate version and qualification. **0.2.16 remains a source-only milestone with no assets.** Regular Agent 589 and Core portable editions remain planned with no download URL or testing claim.
 
 ## Status means one specific thing
 

@@ -2,19 +2,20 @@
 
 Dates reproduce recorded release notes, not inferred public upload dates. Only attached official release assets are app packages.
 
-## Latest published installer — 0.2.28
+## Latest published installer â€” 0.2.28
 
-[0.2.28 — Keep control of an active task](releases/v0.2.28.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
+[0.2.28 â€” Keep control of an active task](releases/v0.2.28.md) Â· **Published unsigned early-access installer** Â· [Downloads](docs/DOWNLOADS.md)
 
-Clearer task controls, retained steering context and more reliable conversational turns across Workspace, Studio and Blueprint. See the scoped verification and limits in the release notes.
+Animated theme-aware Axiom branding, the preserved helmet silhouette, migrated logo preferences and bundled offline policy documents. Existing supervised workflows and data remain unchanged. See the scoped verification and limits in the release notes.
 
 ## Historical installers
 
-[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.27 installer is now historical and retains its original identity.
+[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.28 installer is now historical and retains its original identity.
 
 | Version | Recorded date | Focus | State |
 | --- | --- | --- | --- |
-| [0.2.28](releases/v0.2.28.md) | 2026-09-28 | Keep control of an active task | Latest installer |
+| [0.2.29](releases/v0.2.29.md) | 2026-10-05 | Axiom branding and offline publisher policies | Latest installer |
+| [0.2.28](releases/v0.2.28.md) | 2026-09-28 | Keep control of an active task | Historical installer |
 | [0.2.27](releases/v0.2.27.md) | 2026-09-28 | Workspace recovery and clearer local checks | Historical installer |
 | [0.2.26](releases/v0.2.26.md) | 2026-09-27 | Room to build, connected media and a grounded guide | Historical installer |
 | [0.2.25](releases/v0.2.25.md) | 2026-09-27 | The Atelier and Agent 589 update | Historical installer |
