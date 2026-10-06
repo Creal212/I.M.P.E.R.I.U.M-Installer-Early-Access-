@@ -1,6 +1,10 @@
 # Release status
 
-## Latest installer — 0.2.30
+## Latest installer — 0.2.31
+
+**Published unsigned early access.** Official stable release discovery, optional launch checking with saved opt-out, actionable errors/retry and reviewed-offer-bound manual installer saving. No automatic setup execution. The full final-source 43-stage gate passed 1215 tests plus TypeScript and disposable lifecycle checks; exact extraction, native public HTTP qualification and public byte/hash identity passed. [Exact evidence and limits](RELEASE_0_2_31_STATUS.md) · [Download](DOWNLOADS.md). Older clients require one manual bootstrap. No new live-provider, model-quality or clean-device qualification is claimed.
+
+## Historical installer — 0.2.30
 
 **Published unsigned early access.** Book Cream and Book White notebook appearance, solid high-contrast editor/terminal surfaces, original reserved technical marginalia and preservation of explicit saved/System choices. The full final-source 41-stage gate passed 1178 tests plus TypeScript and installer lifecycle checks; exact extraction and public byte/hash identity passed. [Exact evidence and limits](RELEASE_0_2_30_STATUS.md) · [Download](DOWNLOADS.md). No new live-provider, model-quality or fresh-device qualification is claimed.
 

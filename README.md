@@ -8,15 +8,21 @@
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
-## Latest installer — 0.2.30
+## Latest installer — 0.2.31
 
-[**Download the latest Windows x64 installer · 0.2.30**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.30/I.M.P.E.R.I.U.M_0.2.30_x64-setup.exe) [What changed](releases/v0.2.30.md) · [Setup and checksum](docs/DOWNLOADS.md)
+[**Download the latest Windows x64 installer · 0.2.31**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.31/I.M.P.E.R.I.U.M_0.2.31_x64-setup.exe) [What changed](releases/v0.2.31.md) · [Setup and checksum](docs/DOWNLOADS.md)
 
-**New here? Start with the installer above.** Earlier downloads, including 0.2.29, live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) distinguishes available downloads from work awaiting publication.
+**New here? Start with the installer above.** Earlier downloads, including 0.2.30, live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) distinguishes available downloads from work awaiting publication.
 
 [**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
-**Early access:** 0.2.30 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.30) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_30_STATUS.md). The separate legacy Mini branded refresh is version 0.2.15-axiom.1; the original 0.2.15 preview remains unchanged. GitHub's repository/source archives are not the application.
+**Early access:** 0.2.31 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.31) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_31_STATUS.md). The separate legacy Mini branded refresh is version 0.2.15-axiom.1; the original 0.2.15 preview remains unchanged. GitHub's repository/source archives are not the application.
+
+### A working release check
+
+Open **Settings → About us → Version & updates** and choose **Check now**. The app checks the official stable GitHub release, shows clear connection/verification errors and recommends a newer manual installer when available. Optional launch checking has a persistent local opt-out. **Download verified installer** opens Save, checks the exact version, byte count and SHA-256, and refuses to overwrite an existing destination. It never runs setup or exits automatically. Save your work, close the app and run the unsigned installer yourself; a checksum is not publisher signing.
+
+Installed clients through 0.2.30 need one manual installation of 0.2.31 to receive this checker. Their compiled placeholder cannot be repaired through website metadata.
 
 ### The engineer’s notebook
 
@@ -58,7 +64,7 @@ Main's saved location supports patching; it is not a permanent network connectio
 
 | Package | Status |
 | --- | --- |
-| **0.2.30 Windows x64 installer** | Published unsigned early-access installer. Book Cream and Book White notebook appearance, preserved saved choices and reserved animated technical margins. Unsigned manual early access. [Notes](releases/v0.2.30.md) |
+| **0.2.31 Windows x64 installer** | Published unsigned early-access installer. Official release discovery, optional launch notice, readable retry/errors and verified manual Save. Book themes and supervised work remain intact. [Notes](releases/v0.2.31.md) |
 | **Historical 0.2.27 installer** | [Original installer and checksum](docs/INSTALLER_ARCHIVE.md). Its original recovery, native-memory and image-inspection changes and verification remain unchanged. |
 | **Legacy Mini 0.2.15-axiom.1 branded refresh** | [Separate unsigned manual preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15-axiom.1/IMPERIUM-0.2.15-axiom.1-Mini-preconfigured-preview-win-x64.zip). Retains the legacy model/runtime/setup and launcher bytes. New Axiom branding and offline policies; app/model startup, clean-device behavior and relocation remain untested. [Evidence](docs/RELEASE_0_2_15_AXIOM_1_STATUS.md) |
 | **Historical 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include later installer changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |

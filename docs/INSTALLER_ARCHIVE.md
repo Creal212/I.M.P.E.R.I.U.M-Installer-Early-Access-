@@ -2,6 +2,16 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.30 — I.M.P.E.R.I.U.M_0.2.30_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.30/I.M.P.E.R.I.U.M_0.2.30_x64-setup.exe) · [Original notes](../releases/v0.2.30.md) · [Original verification](RELEASE_0_2_30_STATUS.md)
+
+34,423,805 bytes · unsigned
+
+SHA-256: `C0FB156722F759F99E3CEBE78B83CC2696BF47C0B1A37BED14976CAFCA23E175`
+
+Original Book Cream / Book White notebook appearance. Package, notes and original verification remain unchanged.
+
 ## 0.2.29 — I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.29/I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe) · [Original notes](../releases/v0.2.29.md) · [Original verification](RELEASE_0_2_29_STATUS.md)

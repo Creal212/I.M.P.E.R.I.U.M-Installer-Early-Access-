@@ -2,19 +2,20 @@
 
 Dates reproduce recorded release notes, not inferred public upload dates. Only attached official release assets are app packages.
 
-## Latest published installer — 0.2.30
+## Latest published installer — 0.2.31
 
-[0.2.30 — The engineer’s notebook](releases/v0.2.30.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
+[0.2.31 — Working release discovery and verified manual updates](releases/v0.2.31.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
 
-Book Cream and Book White, high-contrast code and terminal surfaces, saved appearance preservation and original animated technical margin drawings. Existing supervised workflows and data remain unchanged. See the scoped verification and limits in the release notes.
+Official stable release checks, native version authority, optional launch notices, clear retry/error states and exact SHA-256-bound manual installer saving. No setup is run automatically. Existing supervised workflows, Book themes and saved data remain intact. See the scoped verification and limits in the release notes.
 
 ## Historical installers
 
-[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.29 installer is now historical and retains its original identity.
+[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.30 installer is now historical and retains its original identity.
 
 | Version | Recorded date | Focus | State |
 | --- | --- | --- | --- |
-| [0.2.30](releases/v0.2.30.md) | 2026-10-06 | The engineer’s notebook | Latest installer |
+| [0.2.31](releases/v0.2.31.md) | 2026-10-06 | Working release discovery and verified manual updates | Latest installer |
+| [0.2.30](releases/v0.2.30.md) | 2026-10-06 | The engineer’s notebook | Historical installer |
 | [0.2.29](releases/v0.2.29.md) | 2026-10-05 | Axiom branding and offline publisher policies | Historical installer |
 | [0.2.28](releases/v0.2.28.md) | 2026-09-28 | Keep control of an active task | Historical installer |
 | [0.2.27](releases/v0.2.27.md) | 2026-09-28 | Workspace recovery and clearer local checks | Historical installer |
