@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.29",
+  "latestBuiltVersion": "0.2.30",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.30",
+      "recordDate": "2026-10-06",
+      "title": "The engineer’s notebook: Book Cream and Book White",
+      "status": "prepared",
+      "buildState": "built",
+      "notes": "releases/v0.2.30.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.30_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.30/I.M.P.E.R.I.U.M_0.2.30_x64-setup.exe",
+          "bytes": 34423805,
+          "sha256": "c0fb156722f759f99e3cebe78b83cc2696bf47c0b1a37bed14976cafca23e175",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_30_STATUS.md",
+            "summary": "Book Cream and Book White notebook appearance, preserved saved/System choices, reserved animated technical margins and high-contrast code/terminal ink. Full source-bound regression gate, extracted package and visual/keyboard checks passed. No new model, live-provider or clean-device qualification; unsigned manual early access."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.29",
       "recordDate": "2026-10-05",
