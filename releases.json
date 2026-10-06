@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.30",
+  "latestBuiltVersion": "0.2.31",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.31",
+      "recordDate": "2026-10-06",
+      "title": "A working release check and verified manual updates",
+      "status": "prepared",
+      "buildState": "built",
+      "notes": "releases/v0.2.31.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.31_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.31/I.M.P.E.R.I.U.M_0.2.31_x64-setup.exe",
+          "bytes": 34481716,
+          "sha256": "00a0f3dc32c8f9be8544922c58cb98736ceaa8042f3375fed8af5454f732154a",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_31_STATUS.md",
+            "summary": "Official stable release discovery, native version authority, visible retry/error states, optional launch notices and SHA-256-bound manual installer saving with no-clobber publication. No automatic setup execution; unsigned early access. Existing Book themes, model/provider boundaries and saved data remain."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.30",
       "recordDate": "2026-10-06",
