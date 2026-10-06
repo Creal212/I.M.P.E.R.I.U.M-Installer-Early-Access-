@@ -8,21 +8,25 @@
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
-## Latest installer — 0.2.31
+## Latest installer — 0.2.32
 
-[**Download the latest Windows x64 installer · 0.2.31**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.31/I.M.P.E.R.I.U.M_0.2.31_x64-setup.exe) [What changed](releases/v0.2.31.md) · [Setup and checksum](docs/DOWNLOADS.md)
+[**Download the latest Windows x64 installer · 0.2.32**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.32/I.M.P.E.R.I.U.M_0.2.32_x64-setup.exe) [What changed](releases/v0.2.32.md) · [Setup and checksum](docs/DOWNLOADS.md)
 
-**New here? Start with the installer above.** Earlier downloads, including 0.2.30, live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) distinguishes available downloads from work awaiting publication.
+**New here? Start with the installer above.** Earlier downloads, including 0.2.31, live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) distinguishes available downloads from work awaiting publication.
 
 [**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
-**Early access:** 0.2.31 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.31) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_31_STATUS.md). The separate legacy Mini branded refresh is version 0.2.15-axiom.1; the original 0.2.15 preview remains unchanged. GitHub's repository/source archives are not the application.
+**Early access:** 0.2.32 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.32) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_32_STATUS.md). The separate legacy Mini branded refresh is version 0.2.15-axiom.1; the original 0.2.15 preview remains unchanged. GitHub's repository/source archives are not the application.
+
+### A shorter settings notebook
+
+Seven chapters organize the workspace: Connections, Agent 589, Workspace, Automation, Toolbox, Trust & privacy and Application. Related pages stay close together in a compact chapter navigation. **Agent 589 → Local AI** handles optional model setup; **Agent 589 → Companion** controls the wandering guide, tips, size and visibility. These are distinct features in one home. Saved choices, existing destinations and unsaved edits remain. The app keeps its existing theme cards and adds palette-aware keyboard focus to the compact navigation.
 
 ### A working release check
 
-Open **Settings → About us → Version & updates** and choose **Check now**. The app checks the official stable GitHub release, shows clear connection/verification errors and recommends a newer manual installer when available. Optional launch checking has a persistent local opt-out. **Download verified installer** opens Save, checks the exact version, byte count and SHA-256, and refuses to overwrite an existing destination. It never runs setup or exits automatically. Save your work, close the app and run the unsigned installer yourself; a checksum is not publisher signing.
+Open **Settings → Application → About us & updates → Version & updates** and choose **Check now**. The app checks the official stable GitHub release, shows clear connection/verification errors and recommends a newer manual installer when available. Optional launch checking has a persistent local opt-out. **Download verified installer** opens Save, checks the exact version, byte count and SHA-256, and refuses to overwrite an existing destination. It never runs setup or exits automatically. Save your work, close the app and run the unsigned installer yourself; a checksum is not publisher signing.
 
-Installed clients through 0.2.30 need one manual installation of 0.2.31 to receive this checker. Their compiled placeholder cannot be repaired through website metadata.
+Installed clients through 0.2.30 need one manual installation of 0.2.31 or later to receive this checker. Their compiled placeholder cannot be repaired through website metadata.
 
 ### The engineer’s notebook
 
@@ -34,9 +38,9 @@ Agents can create and edit permitted files across the assigned Clone; context ra
 
 ### A more personal workspace
 
-Choose among ten coordinated palettes, including Book Cream, Book White and the existing collections: Verdigris, Midnight Atelier, Garnet, Travertine, Porcelain and Tidal. Animated Home artwork respects reduced-motion preferences. Agent 589 can wander, perch on panels and offer local guidance; use **Settings → Agent 589 guide** to change its size, keep it quiet or turn it off. In **About us**, the guide has a rotating set of playful portrait asides. These are prewritten character lines, not cloud requests or product-performance claims.
+Choose among ten coordinated palettes, including Book Cream, Book White and the existing collections: Verdigris, Midnight Atelier, Garnet, Travertine, Porcelain and Tidal. Animated Home artwork respects reduced-motion preferences. Agent 589 can wander, perch on panels and offer local guidance; use **Settings → Agent 589 → Companion** to change its size, keep it quiet or turn it off. In **Application → About us & updates**, the guide has a rotating set of playful portrait asides. These are prewritten character lines, not cloud requests or product-performance claims.
 
-All four native models are optional downloads in Settings → Agent 589. This installer bundles no model and does not initiate a new model download; existing model setup and startup preferences remain in effect. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Native inference can run offline once prepared; optional model downloads and connected features still need internet.
+All four native models are optional downloads in Settings → Agent 589 → Local AI. This installer bundles no model and does not initiate a new model download; existing model setup and startup preferences remain in effect. If Microsoft Edge WebView2 is missing, installation needs internet for its embedded bootstrapper. Native inference can run offline once prepared; optional model downloads and connected features still need internet.
 
 I.M.P.E.R.I.U.M is a Windows desktop environment for working with AI on software projects, documents and plans. It keeps your original project, **Main**, separate from the **Clone** used for project work. Inspect changes, keep the work you want, create a named patch, and review what reaches Main.
 
@@ -64,7 +68,7 @@ Main's saved location supports patching; it is not a permanent network connectio
 
 | Package | Status |
 | --- | --- |
-| **0.2.31 Windows x64 installer** | Published unsigned early-access installer. Official release discovery, optional launch notice, readable retry/errors and verified manual Save. Book themes and supervised work remain intact. [Notes](releases/v0.2.31.md) |
+| **0.2.32 Windows x64 installer** | Published unsigned early-access installer. Seven settings chapters, one Agent 589 home and palette-aware keyboard focus. Verified manual updates, Book themes and supervised work remain intact. [Notes](releases/v0.2.32.md) |
 | **Historical 0.2.27 installer** | [Original installer and checksum](docs/INSTALLER_ARCHIVE.md). Its original recovery, native-memory and image-inspection changes and verification remain unchanged. |
 | **Legacy Mini 0.2.15-axiom.1 branded refresh** | [Separate unsigned manual preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15-axiom.1/IMPERIUM-0.2.15-axiom.1-Mini-preconfigured-preview-win-x64.zip). Retains the legacy model/runtime/setup and launcher bytes. New Axiom branding and offline policies; app/model startup, clean-device behavior and relocation remain untested. [Evidence](docs/RELEASE_0_2_15_AXIOM_1_STATUS.md) |
 | **Historical 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include later installer changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |

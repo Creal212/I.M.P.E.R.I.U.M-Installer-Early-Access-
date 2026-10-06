@@ -2,7 +2,7 @@
 
 The 0.2.19 installer contains no model weights; all four tiers are optional downloads. Larger tiers are optional manual previews, available in native setup; no larger portable archive is implied.
 
-Download a model in Settings → Agent 589, then explicitly select Start. Start downloads the verified CPU engine if needed; fresh launch performs no automatic setup. The installer embeds the Microsoft Edge WebView2 bootstrapper, so installation needs internet if that required runtime is missing. Native inference can run offline after preparation. Optional larger-model downloads and connected providers need their own network connection.
+Download a model in Settings → Agent 589 → Local AI, then explicitly select Start. Start downloads the verified CPU engine if needed; fresh launch performs no automatic setup. The installer embeds the Microsoft Edge WebView2 bootstrapper, so installation needs internet if that required runtime is missing. Native inference can run offline after preparation. Optional larger-model downloads and connected providers need their own network connection.
 
 | Tier | Selected model | AI memory allowance | Status |
 | --- | --- | --- | --- |

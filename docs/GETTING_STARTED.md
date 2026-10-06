@@ -4,7 +4,7 @@
 
 Read [Downloads](DOWNLOADS.md) for the exact version, checksum and signing status. A repository archive is not the app. The installer targets Windows x64; suitable Windows/WebView2 support, storage and model hardware are needed. Save work, close the app before upgrades and keep independent backups.
 
-Open **Providers** to connect a model, or **Settings → Agent 589** to download optional Lite, Mini, Regular or Core. Check size and available-memory estimates, choose **Download files**, then **Start**. Nothing downloads or starts automatically. The first Start can download the verified CPU engine; WebView2 may also require internet if missing. Existing models and saved stops remain. Only a ready authenticated model appears in task selectors. See [hardware guidance](HARDWARE_AND_MODELS.md).
+Open **Settings → Connections → Providers** to connect a model, or **Settings → Agent 589 → Local AI** to download optional Lite, Mini, Regular or Core. Check size and available-memory estimates, choose **Download files**, then **Start**. Nothing downloads or starts automatically. The first Start can download the verified CPU engine; WebView2 may also require internet if missing. Existing models and saved stops remain. Only a ready authenticated model appears in task selectors. See [hardware guidance](HARDWARE_AND_MODELS.md).
 
 For an external connection, follow its supported account/API setup. Some routes need the provider's own runtime or account configuration. Login does not guarantee task execution or media entitlement. Keep account codes and keys private, then choose the provider and model in your working environment.
 

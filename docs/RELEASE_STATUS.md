@@ -1,6 +1,10 @@
 # Release status
 
-## Latest installer — 0.2.31
+## Latest installer — 0.2.32
+
+**Published unsigned early access.** Seven settings chapters, consolidated Agent 589 Local AI and Companion pages, preserved destinations/preferences and palette-aware keyboard focus. Existing theme cards and verified manual update saving remain. The full final-source 43-stage gate passed 1257 tests plus TypeScript and disposable lifecycle checks; exact extraction and public byte/hash identity passed. [Exact evidence and limits](RELEASE_0_2_32_STATUS.md) · [Download](DOWNLOADS.md). No new network recipient, model permission, live-provider qualification or clean-device certification.
+
+## Historical installer — 0.2.31
 
 **Published unsigned early access.** Official stable release discovery, optional launch checking with saved opt-out, actionable errors/retry and reviewed-offer-bound manual installer saving. No automatic setup execution. The full final-source 43-stage gate passed 1215 tests plus TypeScript and disposable lifecycle checks; exact extraction, native public HTTP qualification and public byte/hash identity passed. [Exact evidence and limits](RELEASE_0_2_31_STATUS.md) · [Download](DOWNLOADS.md). Older clients require one manual bootstrap. No new live-provider, model-quality or clean-device qualification is claimed.
 
