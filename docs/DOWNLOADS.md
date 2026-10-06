@@ -1,6 +1,6 @@
-# Latest installer and verification — 0.2.29
+# Latest installer and verification — 0.2.30
 
-[**Download 0.2.29 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.29/I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe) · [Changes](../releases/v0.2.29.md) · [Historical installers](INSTALLER_ARCHIVE.md). Use the versioned asset and compare its complete checksum.
+[**Download 0.2.30 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.30/I.M.P.E.R.I.U.M_0.2.30_x64-setup.exe) · [Changes](../releases/v0.2.30.md) · [Historical installers](INSTALLER_ARCHIVE.md). Use the versioned asset and compare its complete checksum.
 
 Only attached official release assets are app packages. This release is unsigned and uses manual installation and updates. Repository/source archives are not the application.
 
@@ -17,7 +17,7 @@ All four native models are optional downloads in **Settings → Agent 589**. Dow
 - Preserved: all 40 original Data files, model/runtime/setup values, 13 original App resources and VBS launcher.
 - **Not tested:** launcher execution, actual app/model startup, clean-device behavior or moving the package.
 
-This separate unsigned manual prerelease is an **Axiom-branded refresh of the legacy 0.2.15 Mini preview**. It preserves that preview's bundled model, runtime and setup behavior; it is not the current 0.2.29 installer or its optional model catalog. It includes a newly built executable, updated publisher/brand/policy documents and the original README/manifest archived unchanged. No populated user profile or development environment is copied.
+This separate unsigned manual prerelease is an **Axiom-branded refresh of the legacy 0.2.15 Mini preview**. It preserves that preview's bundled model, runtime and setup behavior; it is not the current 0.2.30 installer or its optional model catalog. It includes a newly built executable, updated publisher/brand/policy documents and the original README/manifest archived unchanged. No populated user profile or development environment is copied.
 
 The [original 0.2.15 ZIP](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip) is unchanged: 1,300,627,851 bytes, SHA-256 `E6273706210C8669E14517F94DCE2271FF05A91B017F8BC60CD87763E0C71566`. Its historical qualifications remain intact.
 
@@ -31,13 +31,13 @@ Stop the model and close the app before moving/backing up the folder. Main paths
 
 | Field | Verified value |
 | --- | --- |
-| Filename | `I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe` |
-| Size | 34,391,514 |
-| SHA-256 | `93AD17D6CC81D127B1EBF36FAFA46F80DD90A3D32155010E4161D96D7ABAC094` |
-| App version | 0.2.29.0 |
+| Filename | `I.M.P.E.R.I.U.M_0.2.30_x64-setup.exe` |
+| Size | 34,423,805 |
+| SHA-256 | `C0FB156722F759F99E3CEBE78B83CC2696BF47C0B1A37BED14976CAFCA23E175` |
+| App version | 0.2.30.0 |
 | Installer / app Authenticode | NotSigned / NotSigned |
 
-Exact extraction, embedded resource inventory, version and public-download identity checks passed for 0.2.29. [Read the scoped evidence](RELEASE_0_2_28_STATUS.md). No new portable version is implied.
+Exact extraction, embedded resource inventory, version and public-download identity checks passed for 0.2.30. [Read the scoped evidence](RELEASE_0_2_30_STATUS.md). No new portable version is implied.
 
 Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe"` and compare the complete hash. Save work, close the app and keep backups. Keep Windows protection enabled. Real-data upgrade and separate-device installation remain unverified here.
 

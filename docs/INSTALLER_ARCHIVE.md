@@ -2,6 +2,16 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.29 — I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe
+
+[Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.29/I.M.P.E.R.I.U.M_0.2.29_x64-setup.exe) · [Original notes](../releases/v0.2.29.md) · [Original verification](RELEASE_0_2_29_STATUS.md)
+
+34,391,514 bytes · unsigned
+
+SHA-256: `93AD17D6CC81D127B1EBF36FAFA46F80DD90A3D32155010E4161D96D7ABAC094`
+
+Original Axiom branding and offline publisher policies. Package, notes and original verification remain unchanged.
+
 ## 0.2.28 — I.M.P.E.R.I.U.M_0.2.28_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.28/I.M.P.E.R.I.U.M_0.2.28_x64-setup.exe) · [Original notes](../releases/v0.2.28.md) · [Original verification](RELEASE_0_2_28_STATUS.md)

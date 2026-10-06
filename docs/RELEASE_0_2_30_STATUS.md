@@ -1,6 +1,6 @@
 # 0.2.30 release verification
 
-Recorded **2026-10-06**. **Prepared: local package verification passed; public download verification is pending.**
+Recorded **2026-10-06**. **Published after exact local package and public-download identity verification.**
 
 | Field | Evidence |
 | --- | --- |
@@ -10,7 +10,7 @@ Recorded **2026-10-06**. **Prepared: local package verification passed; public d
 | App version | 0.2.30.0 |
 | App / installation registry publisher | Axiom Risk Group LLC |
 | Installer / app Authenticode | NotSigned / NotSigned |
-| Public download identity | Pending publication |
+| Public download identity | Public asset byte count and SHA-256 match this exact installer |
 | Fresh physical-device installation / real-data upgrade | NOT EVALUATED |
 | New native-model quality / live paid-provider compatibility | NOT EVALUATED |
 

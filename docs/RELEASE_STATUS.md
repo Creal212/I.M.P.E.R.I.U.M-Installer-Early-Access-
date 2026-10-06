@@ -1,6 +1,10 @@
 # Release status
 
-## Latest installer — 0.2.29
+## Latest installer — 0.2.30
+
+**Published unsigned early access.** Book Cream and Book White notebook appearance, solid high-contrast editor/terminal surfaces, original reserved technical marginalia and preservation of explicit saved/System choices. The full final-source 41-stage gate passed 1178 tests plus TypeScript and installer lifecycle checks; exact extraction and public byte/hash identity passed. [Exact evidence and limits](RELEASE_0_2_30_STATUS.md) · [Download](DOWNLOADS.md). No new live-provider, model-quality or fresh-device qualification is claimed.
+
+## Historical installer — 0.2.29
 
 **Published unsigned early access.** Theme-aware Axiom branding and the preserved helmet outline, migrated logo preferences, shared character insignia, Axiom publisher identity and four bundled offline policy documents. The full final-source 41-stage gate passed 865 tests plus TypeScript and installer lifecycle checks; exact extraction and public byte/hash identity passed. [Exact evidence and limits](RELEASE_0_2_29_STATUS.md) · [Download](DOWNLOADS.md). No new live-provider, model-quality or fresh-device qualification is claimed.
 
