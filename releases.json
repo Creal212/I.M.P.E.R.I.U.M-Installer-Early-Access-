@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.31",
+  "latestBuiltVersion": "0.2.32",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.32",
+      "recordDate": "2026-10-06",
+      "title": "A calmer settings notebook and one home for Agent 589",
+      "status": "prepared",
+      "buildState": "built",
+      "notes": "releases/v0.2.32.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.32_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.32/I.M.P.E.R.I.U.M_0.2.32_x64-setup.exe",
+          "bytes": 34477994,
+          "sha256": "e4410f012fa3f4604a36fa4e6acf4fe7b2de8a2cd238b2405f619b8564b9db5a",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_32_STATUS.md",
+            "summary": "Seven settings chapters replace the long flat list. Agent 589 brings Local AI and Companion together; saved choices and legacy destinations are preserved. Existing theme cards remain, with palette-aware keyboard focus for settings navigation. Verified manual updates and supervised project boundaries remain. Unsigned manual early access."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.31",
       "recordDate": "2026-10-06",
