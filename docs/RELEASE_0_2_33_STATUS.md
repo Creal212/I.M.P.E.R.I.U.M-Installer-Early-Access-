@@ -1,6 +1,6 @@
 # 0.2.33 release verification
 
-Recorded **2026-10-17**. **Prepared; public download identity is pending verification.**
+Recorded **2026-10-17**. **Published after exact local package and public-download identity verification.**
 
 | Field | Evidence |
 | --- | --- |

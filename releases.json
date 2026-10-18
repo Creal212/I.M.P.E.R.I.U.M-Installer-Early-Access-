@@ -9,7 +9,7 @@
       "version": "0.2.33",
       "recordDate": "2026-10-17",
       "title": "Protected Windows credentials and dependency security fixes",
-      "status": "prepared",
+      "status": "published",
       "buildState": "built",
       "notes": "releases/v0.2.33.md",
       "assets": [

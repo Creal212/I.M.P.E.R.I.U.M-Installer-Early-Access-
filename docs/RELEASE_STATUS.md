@@ -1,6 +1,10 @@
 # Release status
 
-## Latest installer — 0.2.32
+## Latest installer — 0.2.33
+
+**Published unsigned early access.** Windows user-bound DPAPI provider-key protection, atomic fail-closed storage and dependency security updates. The final-source 44-stage gate passed 1,271 tests plus TypeScript and synthetic lifecycle checks; package and public download identities were verified. [Exact evidence and limits](RELEASE_0_2_33_STATUS.md) · [Download](DOWNLOADS.md). Existing keys migrate on first access; older versions cannot read the protected format. Real-data upgrades and fresh-device installation remain unqualified.
+
+## Historical installer — 0.2.32
 
 **Published unsigned early access.** Seven settings chapters, consolidated Agent 589 Local AI and Companion pages, preserved destinations/preferences and palette-aware keyboard focus. Existing theme cards and verified manual update saving remain. The full final-source 43-stage gate passed 1257 tests plus TypeScript and disposable lifecycle checks; exact extraction and public byte/hash identity passed. [Exact evidence and limits](RELEASE_0_2_32_STATUS.md) · [Download](DOWNLOADS.md). No new network recipient, model permission, live-provider qualification or clean-device certification.
 

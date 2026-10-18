@@ -2,19 +2,20 @@
 
 Dates reproduce recorded release notes, not inferred public upload dates. Only attached official release assets are app packages.
 
-## Latest published installer — 0.2.32
+## Latest published installer — 0.2.33
 
-[0.2.32 — A calmer settings notebook and one home for Agent 589](releases/v0.2.32.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
+[0.2.33 — Protected Windows credentials and dependency security fixes](releases/v0.2.33.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
 
-Seven settings chapters replace the long flat list. Agent 589 brings Local AI and Companion together, with related controls in a compact chapter navigation and palette-aware keyboard focus. Existing theme cards, saved choices, legacy destinations and verified manual updates remain. See the scoped verification and limits in the release notes.
+Windows user-bound DPAPI key protection, atomic fail-closed provider storage and security dependency updates. Existing workflow controls, themes and verified manual updates remain. See the scoped verification and migration limits.
 
 ## Historical installers
 
-[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.31 installer is now historical and retains its original identity.
+[Earlier installer downloads and exact checksums](docs/INSTALLER_ARCHIVE.md) stay separate from the latest release. Original packages, notes and verification limits are preserved. The 0.2.32 installer is now historical and retains its original identity.
 
 | Version | Recorded date | Focus | State |
 | --- | --- | --- | --- |
-| [0.2.32](releases/v0.2.32.md) | 2026-10-06 | A calmer settings notebook and one home for Agent 589 | Latest installer |
+| [0.2.33](releases/v0.2.33.md) | 2026-10-17 | Windows credential protection and security dependencies | Latest installer |
+| [0.2.32](releases/v0.2.32.md) | 2026-10-06 | A calmer settings notebook and one home for Agent 589 | Historical installer |
 | [0.2.31](releases/v0.2.31.md) | 2026-10-06 | Working release discovery and verified manual updates | Historical installer |
 | [0.2.30](releases/v0.2.30.md) | 2026-10-06 | The engineer’s notebook | Historical installer |
 | [0.2.29](releases/v0.2.29.md) | 2026-10-05 | Axiom branding and offline publisher policies | Historical installer |
