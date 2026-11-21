@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.34",
+  "latestBuiltVersion": "0.2.35",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.35",
+      "recordDate": "2026-11-21",
+      "title": "This PC license key in Application settings",
+      "status": "published",
+      "buildState": "built",
+      "notes": "releases/v0.2.35.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.35_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.35/I.M.P.E.R.I.U.M_0.2.35_x64-setup.exe",
+          "bytes": 34491842,
+          "sha256": "073effd6530ccb0709dfde9e8be58f607d3a33e8accf4df90f222f452a02d2b8",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_35_STATUS.md",
+            "summary": "Application settings shows the license key stored for this PC. The 44-stage release regression passed before bundling. An update does not create a key. Unsigned manual early access; fresh-device installation is not qualified."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.34",
       "recordDate": "2026-11-21",
