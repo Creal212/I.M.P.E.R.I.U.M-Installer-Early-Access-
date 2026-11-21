@@ -2,7 +2,13 @@
 
 Dates reproduce recorded release notes, not inferred public upload dates. Only attached official release assets are app packages.
 
-## Latest published installer — 0.2.34
+## Latest published installer — 0.2.35
+
+[0.2.35 — This PC license key in Application settings](releases/v0.2.35.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
+
+Application settings shows the license key stored for this PC. An update does not create a key.
+
+## Previous published installer — 0.2.34
 
 [0.2.34 — License required before the app will run](releases/v0.2.34.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
 
