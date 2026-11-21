@@ -1,6 +1,6 @@
-# Latest installer and verification — 0.2.33
+# Latest installer and verification — 0.2.34
 
-[**Download 0.2.33 · Windows x64**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.33/I.M.P.E.R.I.U.M_0.2.33_x64-setup.exe) · [Changes](../releases/v0.2.33.md) · [Historical installers](INSTALLER_ARCHIVE.md). Use the versioned asset and compare its complete checksum.
+The current installer is **0.2.34**. It is delivered from [imperium589.world](https://www.imperium589.world/#downloads) after a paid license checkout. [Changes](../releases/v0.2.34.md). Earlier installers remain recorded and are not the current download. Compare a received file with the complete checksum below.
 
 Only attached official release assets are app packages. This release is unsigned and uses manual installation and updates. Repository/source archives are not the application.
 
@@ -41,13 +41,13 @@ The new app protects saved provider-store master keys with current-user Windows 
 
 | Field | Verified value |
 | --- | --- |
-| Filename | `I.M.P.E.R.I.U.M_0.2.33_x64-setup.exe` |
-| Size | 34,474,011 |
-| SHA-256 | `4074E8F887A4F5C78EE97E7F47CE91A2108C0F1623910A2C71D5F4FF86A03816` |
-| App version | 0.2.33 |
+| Filename | `I.M.P.E.R.I.U.M_0.2.34_x64-setup.exe` |
+| Size | 34,492,103 |
+| SHA-256 | `11544e74d6ef56d5aecec7a03bc91c3ed46d608a234f1a39dc0aaf0695896345` |
+| App version | 0.2.34 |
 | Installer / app Authenticode | NotSigned / NotSigned |
 
-Exact extraction, embedded resource inventory, version and public-download identity checks passed for 0.2.33. [Read the scoped evidence](RELEASE_0_2_33_STATUS.md). No new portable version is implied.
+The local 44-stage release regression passed before this package was bundled. Fresh-device installation and real-data upgrade were not run. [Read the scoped evidence](RELEASE_0_2_34_STATUS.md). No new portable version is implied.
 
 Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath "path-to-downloaded-installer.exe"` and compare the complete hash. Save work, close the app and keep backups. Keep Windows protection enabled. Real-data upgrade and separate-device installation remain unverified here.
 

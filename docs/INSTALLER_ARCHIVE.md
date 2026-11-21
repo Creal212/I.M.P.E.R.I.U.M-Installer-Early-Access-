@@ -2,6 +2,16 @@
 
 [Latest installer](DOWNLOADS.md) is separate from these unchanged earlier packages.
 
+## 0.2.33 — I.M.P.E.R.I.U.M_0.2.33_x64-setup.exe
+
+[Original release asset](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.33/I.M.P.E.R.I.U.M_0.2.33_x64-setup.exe) · [Original notes](../releases/v0.2.33.md) · [Original verification](RELEASE_0_2_33_STATUS.md)
+
+34,474,011 bytes · unsigned
+
+SHA-256: `4074e8f887a4f5c78ee97e7f47ce91a2108c0f1623910a2c71d5f4ff86a03816`
+
+Original Windows credential protection release. It does not ask for a license key. Package, notes and original verification remain unchanged.
+
 ## 0.2.32 — I.M.P.E.R.I.U.M_0.2.32_x64-setup.exe
 
 [Download](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.32/I.M.P.E.R.I.U.M_0.2.32_x64-setup.exe) · [Original notes](../releases/v0.2.32.md) · [Original verification](RELEASE_0_2_32_STATUS.md)

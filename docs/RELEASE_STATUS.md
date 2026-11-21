@@ -1,8 +1,12 @@
 # Release status
 
-## Latest installer — 0.2.33
+## Latest installer — 0.2.34
 
-**Published unsigned early access.** Windows user-bound DPAPI provider-key protection, atomic fail-closed storage and dependency security updates. The final-source 44-stage gate passed 1,271 tests plus TypeScript and synthetic lifecycle checks; package and public download identities were verified. [Exact evidence and limits](RELEASE_0_2_33_STATUS.md) · [Download](DOWNLOADS.md). Existing keys migrate on first access; older versions cannot read the protected format. Real-data upgrades and fresh-device installation remain unqualified.
+**Published unsigned early access.** The installed app asks for a purchased license key before it will run, and the license service binds that key to the PC's Windows machine id. The 44-stage release regression passed before bundling. Fresh-device installation and real-data upgrade were not run. [Exact evidence and limits](RELEASE_0_2_34_STATUS.md) · [Download](DOWNLOADS.md).
+
+## Historical installer — 0.2.33
+
+**Published unsigned early access.** Windows user-bound DPAPI provider-key protection, atomic fail-closed storage and dependency security updates. The final-source 44-stage gate passed 1,271 tests plus TypeScript and synthetic lifecycle checks; package and public download identities were verified. [Exact evidence and limits](RELEASE_0_2_33_STATUS.md) · [Download](DOWNLOADS.md). This build does not include the license gate. Existing keys migrate on first access; older versions cannot read the protected format. Real-data upgrades and fresh-device installation remain unqualified.
 
 ## Historical installer — 0.2.32
 

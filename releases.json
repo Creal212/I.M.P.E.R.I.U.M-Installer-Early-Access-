@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.33",
+  "latestBuiltVersion": "0.2.34",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.34",
+      "recordDate": "2026-11-21",
+      "title": "License required before the app will run",
+      "status": "published",
+      "buildState": "built",
+      "notes": "releases/v0.2.34.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.34_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.34/I.M.P.E.R.I.U.M_0.2.34_x64-setup.exe",
+          "bytes": 34492103,
+          "sha256": "11544e74d6ef56d5aecec7a03bc91c3ed46d608a234f1a39dc0aaf0695896345",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_34_STATUS.md",
+            "summary": "The installed app requires a purchased license key before it will run, bound to this PC. The 44-stage release regression passed before bundling. Unsigned manual early access; fresh-device installation and real-data upgrade are not qualified."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.33",
       "recordDate": "2026-10-17",

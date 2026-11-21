@@ -1,0 +1,10 @@
+{
+  "version": "pawprints-seal-v2",
+  "contentSha256": "d064d22c8fd1490d6e9923733b52efc65b35637fa4d88535ab79208e6a569122",
+  "path": "docs/RELEASE_0_2_34_STATUS.md",
+  "signer": "MCowBQYDK2VwAyEABYmt8OOw1gzfyd5SyEOLktNY2oXLD6ybIvEUKfVlOFY",
+  "displayMark": "Creal589",
+  "createdAt": "2026-11-21T10:06:43.893Z",
+  "repoScope": "creal212/i.m.p.e.r.i.u.m-installer-early-access-",
+  "signature": "ZpLMvIjZxU5y69eWpo7UvpSjCdl3Bg_QveVvlFy_LXd7CDnS4YGMLCEwWoT2E1zsEAqFloENoy2pqGUxEUWgBw"
+}

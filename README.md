@@ -8,15 +8,15 @@
 
 **Plan your work. Build in a separate copy. Review what reaches your original project.**
 
-## Latest installer — 0.2.33
+## Latest installer — 0.2.34
 
-[**Download the latest Windows x64 installer · 0.2.33**](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.33/I.M.P.E.R.I.U.M_0.2.33_x64-setup.exe) [What changed](releases/v0.2.33.md) · [Setup and checksum](docs/DOWNLOADS.md)
+[What changed](releases/v0.2.34.md) · [Setup and checksum](docs/DOWNLOADS.md) · [Release v0.2.34](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.34)
 
-**New here? Start with the installer above.** Earlier downloads, including 0.2.32, live in the separate [Historical installers archive](docs/INSTALLER_ARCHIVE.md). The [complete changelog](CHANGELOG.md) distinguishes available downloads from work awaiting publication.
+**New here?** Buy a license on [imperium589.world](https://www.imperium589.world/#downloads). That checkout is the current installer. The installed app asks for the key before it will run, and the key stays on the first PC where it is used. Earlier packages, including 0.2.33, are recorded in the [Historical installers archive](docs/INSTALLER_ARCHIVE.md) and are not the current download. The [complete changelog](CHANGELOG.md) distinguishes the current installer from earlier work.
 
 [**Join the Imperium community on Discord**](https://discord.gg/WZCxhjPwE) — share ideas, report ordinary bugs and get feedback on what you are building.
 
-**Early access:** 0.2.33 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.33) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_33_STATUS.md). The separate legacy Mini branded refresh is version 0.2.15-axiom.1; the original 0.2.15 preview remains unchanged. GitHub's repository/source archives are not the application.
+**Early access:** 0.2.34 is unsigned and uses manual installation/updates. Its [versioned release](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/tag/v0.2.34) carries the exact installer and checksum. Read the [scoped verification and limitations](docs/RELEASE_0_2_34_STATUS.md). The separate legacy Mini branded refresh is version 0.2.15-axiom.1; the original 0.2.15 preview remains unchanged. GitHub's repository/source archives are not the application.
 
 ### Protected Windows credentials
 
@@ -72,7 +72,8 @@ Main's saved location supports patching; it is not a permanent network connectio
 
 | Package | Status |
 | --- | --- |
-| **0.2.33 Windows x64 installer** | Published unsigned early-access security update. Windows user-bound credentials, fail-closed atomic storage and updated security dependencies. Verified manual updates, Book themes and supervised work remain intact. [Notes](releases/v0.2.33.md) |
+| **0.2.34 Windows x64 installer** | Published unsigned early-access build. The installed app requires a purchased key before it will run, bound to one PC. [Notes](releases/v0.2.34.md) |
+| **Historical 0.2.33 installer** | Previous security update. It does not include the license gate. [Original notes](releases/v0.2.33.md) |
 | **Historical 0.2.27 installer** | [Original installer and checksum](docs/INSTALLER_ARCHIVE.md). Its original recovery, native-memory and image-inspection changes and verification remain unchanged. |
 | **Legacy Mini 0.2.15-axiom.1 branded refresh** | [Separate unsigned manual preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15-axiom.1/IMPERIUM-0.2.15-axiom.1-Mini-preconfigured-preview-win-x64.zip). Retains the legacy model/runtime/setup and launcher bytes. New Axiom branding and offline policies; app/model startup, clean-device behavior and relocation remain untested. [Evidence](docs/RELEASE_0_2_15_AXIOM_1_STATUS.md) |
 | **Historical 0.2.15 Mini preconfigured preview ZIP** | [Download 0.2.15 preview](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.15/IMPERIUM-0.2.15-Mini-preconfigured-preview-win-x64.zip). This older app build does not include later installer changes. File/inventory checks passed; launcher, first-run, model startup and relocation remain **untested**. [Requirements](docs/DOWNLOADS.md#mini-preconfigured-preview) |
