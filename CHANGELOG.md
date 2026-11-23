@@ -2,7 +2,13 @@
 
 Dates reproduce recorded release notes, not inferred public upload dates. Only attached official release assets are app packages.
 
-## Latest published installer — 0.2.35
+## Latest published installer — 0.2.36
+
+[0.2.36 — Keys activate on the Imperium site and stay on this PC](releases/v0.2.36.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
+
+License keys are activated with the Imperium website. A saved key is kept through updates; keys used on another PC or from refunded or disputed purchases do not open the app.
+
+## Previous published installer — 0.2.35
 
 [0.2.35 — This PC license key in Application settings](releases/v0.2.35.md) · **Published unsigned early-access installer** · [Downloads](docs/DOWNLOADS.md)
 

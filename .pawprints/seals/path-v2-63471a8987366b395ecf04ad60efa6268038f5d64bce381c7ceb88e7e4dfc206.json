@@ -1,0 +1,10 @@
+{
+  "version": "pawprints-seal-v2",
+  "contentSha256": "eeb8132ec16e2c41609ae5310de8c3ef78de4611dc49bf3f15de45f97c7d8e22",
+  "path": "releases/v0.2.36.md",
+  "signer": "MCowBQYDK2VwAyEABYmt8OOw1gzfyd5SyEOLktNY2oXLD6ybIvEUKfVlOFY",
+  "displayMark": "Creal589",
+  "createdAt": "2026-11-23T07:06:54.189Z",
+  "repoScope": "creal212/i.m.p.e.r.i.u.m-installer-early-access-",
+  "signature": "DiK7BrheJqbGGQUL0djd7vhzrcp6AIFUL0rAitPUsyS8lUvCcA3OI7VD0ZRmlubbynTlYb0DKYEKMyKc4FNCBw"
+}

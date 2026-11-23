@@ -2,9 +2,37 @@
   "schemaVersion": 1,
   "product": "I.M.P.E.R.I.U.M",
   "repository": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-",
-  "latestBuiltVersion": "0.2.35",
+  "latestBuiltVersion": "0.2.36",
   "recordDateMeaning": "Dates reproduce the publisher's version notes; they do not establish public upload dates.",
   "releases": [
+    {
+      "version": "0.2.36",
+      "recordDate": "2026-11-23",
+      "title": "Keys activate on the Imperium site and stay on this PC",
+      "status": "published",
+      "buildState": "built",
+      "notes": "releases/v0.2.36.md",
+      "assets": [
+        {
+          "name": "I.M.P.E.R.I.U.M_0.2.36_x64-setup.exe",
+          "kind": "installer",
+          "platform": "windows-x64",
+          "url": "https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-/releases/download/v0.2.36/I.M.P.E.R.I.U.M_0.2.36_x64-setup.exe",
+          "bytes": 34532763,
+          "sha256": "138b0a0d12cf07763e869204469053d7d3b4717e4aa47368fc69bbc1480fc783",
+          "signing": "unsigned",
+          "evaluation": {
+            "packageIntegrity": "passed",
+            "appBehavior": "partial",
+            "modelQuality": "not-qualified",
+            "freshDevice": "not-run",
+            "relocation": "not-applicable",
+            "evidence": "docs/RELEASE_0_2_36_STATUS.md",
+            "summary": "License keys activate with the Imperium website. A saved key is kept through updates; keys bound to another PC or from refunded or disputed purchases do not open the app. The 44-stage release regression passed before bundling. Unsigned manual early access; fresh-device installation is not qualified."
+          }
+        }
+      ]
+    },
     {
       "version": "0.2.35",
       "recordDate": "2026-11-21",
